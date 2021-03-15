@@ -16,7 +16,9 @@ Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) ber
 ins Deutsche übertragen und seine Wirksamkeit wurde wissenschaftlich
 nachgewiesen ([Buch: Das Stigma psychischer Erkrankungen](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
-Das SPZ Ehrenfeld Köln bietet das Gruppenprogramm "In Würde zu sich stehen" ab dem 23.3.2021 an 4 Terminen jeweils Dienstag von 14 bis 16 Uhr __als Online-Seminar__ an. Wenn sie teilnehmen möchten, können sie sich hier [per email anmelden](mailto:zu.sich.stehen@inwuerde.de?subject=AnmeldungIWS).
+Das SPZ Ehrenfeld Köln bietet das Gruppenprogramm "In Würde zu sich stehen" ab dem 27.4.2021 an 4 Terminen jeweils Dienstag von 14 bis 16 Uhr __als Online-Seminar__ an. Wenn sie teilnehmen möchten, können sie sich hier [per email anmelden](mailto:zu.sich.stehen@inwuerde.de?subject=AnmeldungIWS).
+
+Das Seminar, das am 23.3.2021 beginnt, ist ausgebucht. [warteliste](mailto:zu.sich.stehen@inwuerde.de?subject=Anmeldung23.3.Warteliste).
 
 ## vergangene Seminare
 
