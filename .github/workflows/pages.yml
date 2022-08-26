@@ -30,6 +30,8 @@ jobs:
         uses: TartanLlama/actions-eleventy@master
         with:
           install_dependencies: true
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
 
   # Deployment job
   deploy:
