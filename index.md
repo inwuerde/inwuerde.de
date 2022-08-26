@@ -8,13 +8,9 @@ title: In Würde zu sich stehen
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
 
-Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der Überwindung
-der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
+Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der Überwindung der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
 
-Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von 
-[Nicolas Rüsch  und Kolleg:innen (Univ.-Ulm)](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html)
-ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich
-nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
+Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von [Nicolas Rüsch  und Kolleg:innen (Univ.-Ulm)](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
 ## Arbeitsgruppe IWS in Köln
 
@@ -38,8 +34,7 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 - IWS 7 Online vom 20.07.2022 bis 10.08.2022 Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar __ausgebucht__.
 - IWS 8 Online vom 21.09.2022 bis 12.10.2022 Mittwochs jeweils 17 bis 19 Uhr als Zoom-Online-Seminar __ausgebucht__ [Warteliste, wenn jemand zurück tritt](mailto:info@inwuerde.de?subject=WartelisteIWS_8).
-- IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9).
-[[^]](#top)
+- IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9). [[^]](#top)
 
 ## aktuelle Vorträge
 
@@ -83,8 +78,7 @@ Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken 
 
 Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das Seminar "In Würde zu sich stehen" im September 2021 an der Universität Ulm bei Prof. Dr. Nicolas Rüsch hat sich eine Intervisionsgruppe von Peer-Seminarleiter:innen gegründet, die sich regelmässig via Zoom trifft und gegenseitig unterstützt. Wenn Sie Peer-Seminarleiter:in sind und gern in diese Gruppe aufgenommen werden möchten, schreiben Sie mir eine [email](mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe).
 
-Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt.
-[[^]](#top)
+Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt. [[^]](#top)
 
 ## <a id="bio"></a>Über mich persönlich
 
@@ -94,5 +88,4 @@ Ich - Thomas Richter, 57 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfa
 
 Aus diesen Erfahrungen heraus setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein und biete das Seminar "In Würde zu sich stehen" für Betroffene an. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes](https://www.a-freizeiten.de/gruppen.html) kennen. Seit dem Jahr 2021 bin ich Mitglied im [Betroffenenbeirat](https://www.zi-mannheim.de/forschung/betroffenenbeirat.html) des [Zentralinstituts für Seelische Gesundheit in Mannheim](https://www.zi-mannheim.de/) und aktives Mitglied im [Selbsthilfe-Freizeitwerk e.V.](https://www.a-freizeiten.de) sowie im [Kölner Verein für Rehabilitation e.V.](https://koelnerverein.de). Seit November 2021 nehme ich auch an der [in2gr8 research group](https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions) teil.
 
-Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. 
-[[^]](#top)
+Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. [[^]](#top)
