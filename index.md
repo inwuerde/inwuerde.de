@@ -6,11 +6,13 @@ title: In Würde zu sich stehen
 
 [Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [meine Geschichte](#bio)
 
-Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
+Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
+psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
 
-Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der Überwindung der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
+Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der 
+Überwindung der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
 
-Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von [Nicolas Rüsch  und Kolleg:innen (Univ.-Ulm)](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
+Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von [Nicolas Rüsch und Kolleg:innen (Univ.-Ulm)](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
 
 ## Arbeitsgruppe IWS in Köln
 
@@ -25,8 +27,7 @@ Wir treffen uns zu unserer konstituierenden Zusammenkunft am 20.10.2022 um 16 Uh
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
-Die nächsten Termine sind: 8.6., 22.6., 6.7., 20.7., 3.8., 17.8., 31.8., 14.9., 28.9.,
-12.10., 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
+Die nächsten Termine sind: 31.8., 14.9., 28.9. (Beginn 19 Uhr), 12.10. (Beginn 19 Uhr), 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
 
 Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:info@inwuerde.de?subject=IWS_SHG). [[^]](#top)
 
@@ -78,14 +79,24 @@ Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken 
 
 Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das Seminar "In Würde zu sich stehen" im September 2021 an der Universität Ulm bei Prof. Dr. Nicolas Rüsch hat sich eine Intervisionsgruppe von Peer-Seminarleiter:innen gegründet, die sich regelmässig via Zoom trifft und gegenseitig unterstützt. Wenn Sie Peer-Seminarleiter:in sind und gern in diese Gruppe aufgenommen werden möchten, schreiben Sie mir eine [email](mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe).
 
-Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt. [[^]](#top)
+Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt.
+[[^]](#top)
 
 ## <a id="bio"></a>Über mich persönlich
 
-Ich - Thomas Richter, 57 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfahrung einer psychischen Erkrankung. Mein beruflicher Weg führte mich nach dem Studium (Abschluss Sozialpsychologie an der Friedrich-Schiller-Universität Jena) über die Arbeit in der sozialpsychologischen Forschung in einem Graduiertenkolleg für Kognitionswissenschaften, dem DFKI Saarbrücken, mehrere Forschungsaufenthalte in Australien (UNSW) und den USA (UCBerkeley) über ein innovatives Forschungs- und Pilotprojekt (Universitäts-Kinderklinik Erlangen) einer virtuellen Selbsthilfegruppe für Kinder und Jugendliche mit Diabetes Typ 1 zur Softwareentwicklung in mehreren Start-Ups. Ich war jedoch in dieser Tätgkeit als Softwareentwickler immer wieder durch Depressionen und Angststörungen in der Arbeit beeinträchtigt, initial ausgelöst durch einen Schicksalsschlag in der Familie. Diese Erkrankung machte es mir unmöglich, meine Arbeit erfolgreich zu bewältigen und die Symptome haben dazu geführt, dass ich wiederholt in psychosomatischen oder psychiatrischen Einrichtungen behandelt wurde. Ich weiss, wie sich Depression und Angststörung auch von "Innen" anfühlen. Ich habe viel über die Kraft sozialer Unterstützung im Recovery-Prozess und die Selbstorganisation der Selbsthilfe-Szene gelernt. Gerade in den anonymen Gruppen ist so ein starker Spirit vorhanden, ohne den es vielen Menschen deutlich schlechter ginge. Und das ganz ohne Profis! Alle sind auf Augenhöhe. Aber darüber ist in der Psychiatrie und der Gesellschaft immer noch sehr wenig bekannt.
+Ich - Thomas Richter, 57 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfahrung einer
+psychischen Erkrankung. Mein beruflicher Weg führte mich nach dem Studium (Abschluss
+Sozialpsychologie an der Friedrich-Schiller-Universität Jena) über die Arbeit in der
+sozialpsychologischen Forschung in einem Graduiertenkolleg für Kognitionswissenschaften,
+dem DFKI Saarbrücken, mehrere Forschungsaufenthalte in Australien (UNSW) und den USA (UCBerkeley) über ein innovatives Forschungs- und Pilotprojekt (Universitäts-Kinderklinik Erlangen) einer virtuellen Selbsthilfegruppe für Kinder und Jugendliche mit Diabetes Typ 1 zur
+Softwareentwicklung in mehreren Start-Ups. Ich war jedoch in dieser Tätgkeit als
+Softwareentwickler immer wieder durch Depressionen und Angststörungen in der Arbeit
+beeinträchtigt, initial ausgelöst durch einen Schicksalsschlag in der Familie. Diese
+Erkrankung machte es mir unmöglich, meine Arbeit erfolgreich zu bewältigen und die Symptome haben dazu geführt, dass ich wiederholt in psychosomatischen oder psychiatrischen Einrichtungen behandelt wurde. Ich weiss, wie sich Depression und Angststörung auch von "Innen" anfühlen. Ich habe viel über die Kraft sozialer Unterstützung im Recovery-Prozess und die Selbstorganisation der Selbsthilfe-Szene gelernt. Gerade in den anonymen Gruppen ist so ein starker Spirit vorhanden, ohne den es vielen Menschen deutlich schlechter ginge. Und das ganz ohne Profis! Alle sind auf Augenhöhe. Aber darüber ist in der Psychiatrie und der Gesellschaft immer noch sehr wenig bekannt.
 
 2016 war es mir ein Herzensanliegen, den amerikanischen Dokumentarfilm "The Anonymous People" von Greg Williams über die Sucht-Recovery-Bewegung in Amerika mit deutschen Untertiteln zu versorgen und ich habe ihn zur Deutschland-Premiere auf dem Pfingsttreffen des Förderkreises für Ganzheitsmedizin e.V. in Bad Herrenalb gezeigt.
 
 Aus diesen Erfahrungen heraus setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein und biete das Seminar "In Würde zu sich stehen" für Betroffene an. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes](https://www.a-freizeiten.de/gruppen.html) kennen. Seit dem Jahr 2021 bin ich Mitglied im [Betroffenenbeirat](https://www.zi-mannheim.de/forschung/betroffenenbeirat.html) des [Zentralinstituts für Seelische Gesundheit in Mannheim](https://www.zi-mannheim.de/) und aktives Mitglied im [Selbsthilfe-Freizeitwerk e.V.](https://www.a-freizeiten.de) sowie im [Kölner Verein für Rehabilitation e.V.](https://koelnerverein.de). Seit November 2021 nehme ich auch an der [in2gr8 research group](https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions) teil.
 
-Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen. [[^]](#top)
+Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen.
+[[^]](#top)

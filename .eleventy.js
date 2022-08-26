@@ -5,7 +5,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 module.exports = function (eleventyConfig) {
   let options = {
     html: true,
-    breaks: true,
+    breaks: false,
     linkify: true,
   };
   eleventyConfig.setLiquidOptions({
