@@ -11,7 +11,7 @@ psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen
 Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit in der 
 Überwindung der Stigmatisierung psychischer Erkrankungen in unserer Gesellschaft.
 
-Das Programm [__In Würde zu sich stehen__](https://www.uni-ulm.de/med/iws/) beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen](https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566) und wurde von [Nicolas Rüsch und Kolleg:innen (Univ.-Ulm)](https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html) ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung](https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/)).
+Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen][7] und wurde von [Nicolas Rüsch und Kolleg:innen (Univ.-Ulm)][8] ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung][10]).
 
 ## Arbeitsgruppe IWS in Köln
 
@@ -19,7 +19,7 @@ In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Wür
 
 ## <a id="profis"></a>IWS betroffene Profis
 
-Sich mit seiner eigenen Betroffenheit psychischer Erschütterung zu zeigen, ist in helfenden Berufen allgemein, aber insbesondere bei Helfern, die psychotherapeutisch arbeiten, in Deutschland immer noch ein großes Tabu. In Großbritannien existiert seit einiger Zeit eine Initiative von Betroffenen PsychotherapeutInnen und PsychologInnen, die dies ändern möchten [in2gr8mentalhealth](https://www.in2gr8mentalhealth.com). Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
+Sich mit seiner eigenen Betroffenheit psychischer Erschütterung zu zeigen, ist in helfenden Berufen allgemein, aber insbesondere bei Helfern, die psychotherapeutisch arbeiten, in Deutschland immer noch ein großes Tabu. In Großbritannien existiert seit einiger Zeit eine Initiative von Betroffenen PsychotherapeutInnen und PsychologInnen, die dies ändern möchten [in2gr8mentalhealth][11]. Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
 Wir treffen uns zu unserer konstituierenden Zusammenkunft am 20.10.2022 um 16 Uhr im Zoom. Selbst betroffene InteressentInnen an diesem Austausch können mit uns gern per [Email](mailto:info@inwuerde.de?subject=IWS_betroffene_Profis) Kontakt aufnehmen. [[^]](#top)
 
 ## <a id="shg"></a>Selbsthilfgegruppe IWS (Zoom)
@@ -55,7 +55,7 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 ## vergangene Vorträge
 
 - Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.][4] in Zinnowitz
-- [Vortrag am 15.10.2021](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
+- [Vortrag am 15.10.2021][13]
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
 - Vortrag am 11.11.2021 vor dem __Vorstand der Arbeitsgemeinschaft Gemeindepsychiatrie Rheinland e.V.__ in Hilden (via Zoom)
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
@@ -63,8 +63,8 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 
 ## Beiträge in sozialen Medien
 
-- [Blogartikel](https://sternenruferin.de/in-wuerde-zu-sich-stehen-ein-seminar-und-eine-lebenseinstellung/) über das Seminar IWS vom 2.11.2021
-- [Diskussionsveranstaltung auf Youtube](https://youtu.be/XpvQ7YD2kT4) von __never code alone__ am 6.7.2022 mit Roland Golla, Susanne Neunes und Thomas Richter.
+- [Blogartikel][12] über das Seminar IWS vom 2.11.2021
+- [Diskussionsveranstaltung auf Youtube][14] von __never code alone__ am 6.7.2022 mit Roland Golla, Susanne Neunes und Thomas Richter.
 
 ## Aufnahme in die Interessentenliste
 
@@ -106,3 +106,11 @@ Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen ge
 [4]: https://selbsthilfe-freizeitwerk.de "Selbsthilfe Freizeitwerk e.V."
 [5]: https://www.zi-mannheim.de/ "Zentralisititut für Seelische Gesundheit"
 [6]: https://www.zi-mannheim.de/forschung/betroffenenbeirat.html "Betroffenenbeirat"
+[7]: https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566 "Coming out proud"
+[8]: https://www.uniklinik-ulm.de/psychiatrie-und-psychotherapie-ii/unser-team/nicolas-ruesch.html "Nicolas Rüsch"
+[9]: https://www.uni-ulm.de/med/iws/ "In Würde zu sich stehen - Universität Ulm"
+[10]: https://www.amazon.de/Das-Stigma-psychischer-Erkrankung-Diskriminierung/dp/3437235206/ "Buch: Das Stigma psychischer Erkrkankung"
+[11]: https://www.in2gr8mentalhealth.com "In2g8mentalhealth"
+[12]: https://sternenruferin.de/in-wuerde-zu-sich-stehen-ein-seminar-und-eine-lebenseinstellung/ "Blogartikel über ihre Teilnahme am Semianr IWS von Sternenruferin"
+[13]: https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/ "Vortrag zur Woche der Seelischen Gesundheit 2021 in Köln"
+[14]: https://youtu.be/XpvQ7YD2kT4 "Thomas Richter bei Never Code Alone"
