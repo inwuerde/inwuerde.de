@@ -18,6 +18,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addDataExtension("yaml", (contents) => yaml.load(contents));
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.setLibrary("md", markdownIt(options));
+  eleventyConfig.addCollection("posts", function (collectionApi) {
+    return collectionApi.getFilteredByGlob("posts/**/*.md");
+  });
   return {
     dir: {
       input: "./",

@@ -2,9 +2,8 @@
 layout: layouts/default
 title: In Würde zu sich stehen
 ---
-![logo](/assets/images/logo-iws.png)
-
-[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [meine Geschichte](#bio)
+[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [meine Geschichte](#bio) - [blog](/blog
+)
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
 psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.
@@ -39,7 +38,7 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## aktuelle Vorträge
 
-Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesundheit](https://www.zi-mannheim.de/) in Mannheim über meinen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich halte diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der psychosomatischen Klinik in Bad Herrenalb.
+Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesundheit][5] in Mannheim über meinen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich halte diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der psychosomatischen Klinik in Bad Herrenalb.
 
 ## vergangene Seminare
 
@@ -55,7 +54,7 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 
 ## vergangene Vorträge
 
-- Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.](https://www.selbsthilfe-freizeitwerk.de/) in Zinnowitz
+- Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.][4] in Zinnowitz
 - [Vortrag am 15.10.2021](https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/
 ) ([Präsentation](https://www.canva.com/design/DAEsgzerZP8/aPkJLde6e_k2J2wDI8d-zg/view)) im Rahmen der __6. KölnBonner Woche der Seelischen Gesundheit__
 - Vortrag am 11.11.2021 vor dem __Vorstand der Arbeitsgemeinschaft Gemeindepsychiatrie Rheinland e.V.__ in Hilden (via Zoom)
@@ -96,7 +95,14 @@ Erkrankung machte es mir unmöglich, meine Arbeit erfolgreich zu bewältigen und
 
 2016 war es mir ein Herzensanliegen, den amerikanischen Dokumentarfilm "The Anonymous People" von Greg Williams über die Sucht-Recovery-Bewegung in Amerika mit deutschen Untertiteln zu versorgen und ich habe ihn zur Deutschland-Premiere auf dem Pfingsttreffen des Förderkreises für Ganzheitsmedizin e.V. in Bad Herrenalb gezeigt.
 
-Aus diesen Erfahrungen heraus setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein und biete das Seminar "In Würde zu sich stehen" für Betroffene an. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes](https://www.a-freizeiten.de/gruppen.html) kennen. Seit dem Jahr 2021 bin ich Mitglied im [Betroffenenbeirat](https://www.zi-mannheim.de/forschung/betroffenenbeirat.html) des [Zentralinstituts für Seelische Gesundheit in Mannheim](https://www.zi-mannheim.de/) und aktives Mitglied im [Selbsthilfe-Freizeitwerk e.V.](https://www.a-freizeiten.de) sowie im [Kölner Verein für Rehabilitation e.V.](https://koelnerverein.de). Seit November 2021 nehme ich auch an der [in2gr8 research group](https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions) teil.
+Aus diesen Erfahrungen heraus setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein und biete das Seminar "In Würde zu sich stehen" für Betroffene an. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes][2] kennen. Seit dem Jahr 2021 bin ich Mitglied im [Betroffenenbeirat][6] des [Zentralinstituts für Seelische Gesundheit in Mannheim][5] und aktives Mitglied im [Selbsthilfe-Freizeitwerk e.V.][4] sowie im [Kölner Verein für Rehabilitation e.V.][3]. Seit November 2021 nehme ich auch an der [in2gr8 research group][1] teil.
 
 Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen.
 [[^]](#top)
+
+[1]: https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions "in2gr8 research group"
+[2]: https://www.a-freizeiten.de/gruppen.html "12 Schritte Gruppen"
+[3]: https://koelnerverein.de "Kölner Verein für Rehabilitation e.V."
+[4]: https://selbsthilfe-freizeitwerk.de "Selbsthilfe Freizeitwerk e.V."
+[5]: https://www.zi-mannheim.de/ "Zentralisititut für Seelische Gesundheit"
+[6]: https://www.zi-mannheim.de/forschung/betroffenenbeirat.html "Betroffenenbeirat"

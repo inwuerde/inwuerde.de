@@ -23,11 +23,24 @@
       <div class="inner">
         <header id="top">
           <h1>{{ title }}</h1>
+          <div>
+            {% block navigation %}
+            <div>
+              <img
+                src="/assets/images/logo-iws.png"
+                width="500"
+                height="218"
+                alt="logo"
+              />
+            </div>
+            {% endblock %}
+          </div>
         </header>
-        <section>{{ content }}</section>
+        <section>{% block content %}{{ content }}{% endblock %}</section>
         <footer>
           <a href="/">Home</a> | <a href="/datenschutz">Datenschutz</a> |
-          <a href="/impressum">Impressum</a> | <span>{{- site.year -}}</span>
+          <a href="/impressum">Impressum</a> | <span>{{- site.year -}}</span>|
+          <a href="/blog">blog</a>
         </footer>
       </div>
     </div>
