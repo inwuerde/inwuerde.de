@@ -1,6 +1,7 @@
 ---
 title: Mein persönlicher Genesungsweg und das Bad Herrenalber Modell (Teil 2)
 date: 2022-08-28 06:00:00
+permalink: "/posts/bhm-teil-2/"
 ---
 
 ## Die 12 Schritte-Gruppen in der Bad Herrenalber Klinik 
@@ -11,7 +12,9 @@ _(Teil 2) Auszüge aus meinem Vortrag auf dem Kolloquium des Zentralinstituts f�
 
 Ich möchte jetzt über das Element der 12 Schritte Gruppen zu sprechen kommen. In der Klinik gab es an jedem Abend nach dem Abendessen die Möglichkeit an 12 Schritte Gruppen teilzunehmen. 
 
-Eine Besonderheit der Gruppen ist das Prinzip der Anonymität: “Wen Du hier siehst, was du hier hörst, wenn Du gehst, lass es hier”. Deshalb war auch sichergestellt, dass alles was man in diesen Gruppen sagte, in den Gruppen blieb und nicht im Therapieprozess verwendet wurde. Ich komme im Zusammenhang mit der Arbeit in der Großgruppe später noch darauf zu sprechen, warum das für mich wichtig war. Da nach Walther Lechler “Der Mensch des Menschen Medizin ist” und Genesung nur im ehrlichen Austausch mit dem anderen Menschen stattfinden kann, ist es essentiell, dass der Mensch diese Genesung im Gruppenkontext erfährt. 
+Eine Besonderheit der Gruppen ist das Prinzip der Anonymität: “Wen Du hier siehst, was du hier hörst, wenn Du gehst, lass es hier”. Deshalb war auch sichergestellt, dass alles was man in diesen Gruppen sagte, in den Gruppen blieb und nicht im Therapieprozess verwendet wurde. Ich komme im Zusammenhang mit der Arbeit in der Großgruppe später noch darauf zu sprechen, warum das für mich wichtig war. Da nach Walther Lechler “Der Mensch des Menschen Medizin ist” und Genesung nur im ehrlichen Austausch mit dem anderen Menschen stattfinden kann, ist es essentiell, dass der Mensch diese Genesung im Gruppenkontext erfährt.
+
+![Gruppenraum Bad Herrenalb](/assets/images/KlinkBH12schritte12traditionen.jpg)
 
 Wie funktionieren Meetings: Da sie eine einfache klare Struktur haben, könne sie von vielen TeilnehmerInnen geleitet werden. Dazu wird zuerst aus Texten vorgelesen Danach finden sharing-Runden in denen von den TeilnehmerInnen “Erfahrung, Kraft und Hoffnung“ geteilt wird. Es ist sehr ehrliches Mitteilen. Auch gibt es die Möglichkeit, eine/r erzählt seine Lebensgeschichte/ oft in der Form: wie war es vor der (Erkrankung/Kapitulation), was geschah dann und wie es heute.
 
@@ -24,3 +27,5 @@ Die Einbeziehung der Meetings am Heimatort hilft ungemein beim Ankommen zu Hause
 Die 12 Schritte-Gruppen haben die Besonderheit, dass “Unsere Vertrauensleute nur betraute Diener sind, die nicht herrschen“. Die Gruppenleitung beruht auf dem Prinzip der servant leadership. Sie ist Dienst auf Augenhöhe. Es gab auch verschieden Ehemaligen Gruppen an den Wohnorten nach der Klinikzeit, die von ehemaligen Patienten gegründet wurden.
 
 Dass das Bad Herrenalber Modell die Organisationskultur der 12 Schritte Gruppen in sich aufgenommen hat, stellte den Halbgott in weiß natürlich in Frage.
+
+Weiter [Teil 3](/posts/bhm-teil-3/)

@@ -1,9 +1,12 @@
 ---
 title: Mein persönlicher Genesungsweg und das Bad Herrenalber Modell (Teil 3)
 date: 2022-08-28 06:30:00
+permalink: "/posts/bhm-teil-3/"
 ---
 
 ## Die Fastenvereinbarung
+
+![Komiteeregeln](/assets/images/KlinikBHKomiteeregeln.png)
 
 _(Teil 3) Auszüge aus meinem Vortrag auf dem Kolloquium des Zentralinstituts für Seelische Gesundheit in Mannheim am 02.08.2022 über das Behandlungskonzept der Psychosomatischen Klinik Bad Herrenalb - ein Überblick über die Besonderheiten gemeinsam vorgetragen mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie_
 
@@ -14,3 +17,5 @@ Zu den Fragen, die in dem Schema genannt werden, kann ich, wenn ich eine Rückfa
 Um den Umgang mit den Fastenregeln zu illustrieren möchte ich meine Erfahrungen in der Essstruktur schildern. Ich war ja auch wegen meines problematischen Über-Essverhaltens in der Klinik. Ich möchte anhand dieses Beispiels die Dynamik im Umgang mit der Fastenvereinbarung demonstrieren. Ich war teil der Esstruktur, das bedeutet, das ich nach der ersten woche mein Essen an einem besonderen Tisch gemeinsam mit den Anderen Patienten in der Essstruktur eingenommen habe. Die Gefühle, die bei jedem von uns im Umgang mit der Esstruktur auftraten waren dann das Material, welches inder Therapie bearbeitet werden wollte. In der Essstruktur, war sehr viel vorgegeben, z.B. die Menge, die Zeit des Essens, aber auch ein Esssponsor, dem gegenüber ich vor dem essen als auch nach dem Essen meinen Teller vorzeigen musste. Verletzungen dieser struktur fürten automatisch zu einer Rückfallbearbeitung. dazu gab es einen Rückfall bearbeitungs-Fragebogen, der von mir ausgefüllt werden musste und der Therapeutin, welche die Essstruktur betreut hat, zugesendet werden musste. Nach jedem Mittagessen gab es eine Essstruktur-Gruppe, in der diese Rückfälle besprochen wurden. Diese Gruppe war auch dazu da über die gefühle beim Essen zu reden, denn während des Essens sollte gegessen werden und nicht über Gefühle gesprochen werden. Die Gruppe diente auch zur Besprechung anderer Fragen, wie z.B. der Übergang zu den 3 Phasen der Essstruktur ausgehandelt wurden. Durch innere Stabilisierung des eigenen Essverhaltens konnte die Patienten in eine Phase mit mehr eigene Handlungsfreiheit was die Wahl der Speisen betrifft überwechseln. Der Ess-sponsor diente aber auch als Gesprächspartner bei anderen Fragen rund um die Therapie. In gegenseitiger Verantwortung haben wir darauf geachtet, unsere Abstinenzregeln einzuhalten. Einmal pro Woche wurden wir gewogen. Zusätzlich gab es in der Essstruktur Anleitung zum gesunden Kochen in der Lehrküche. Während der Teilnahme an der Essstruktur wurde dringend empfohlen, die 2 mal wöchentlich am Abend stattfindende Selbsthilfegruppe der Overeaters Anonymous zu besuchen. 
 
 Mir hat die Struktur und das wechselseitige achtsame Verhalten, das Bewusstmachen meiner eigenen inneren Dynamik mit dem Essen über solche Werkzeuge, wie Rückfallbogen, Reflektionsrunde sehr geholfen, und mit Werkzeug an die Hand gegeben für die Zeit nach der Klinik, wie auch der weitere Besuch der Selbsthilfegruppe Overeaters Anonymous in meiner Heimatstadt.
+
+Weiter [Teil 4](/posts/bhm-teil-4/)
