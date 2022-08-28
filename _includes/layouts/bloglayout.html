@@ -4,6 +4,10 @@ layout: layouts/default
 
 {% block navigation %}
 <nav><a href="/">Home</a> - <a href="/blog">Blog Index</a></nav>
-{% endblock %} {% block content %}
+{% endblock %}
+<h4 class="blogindex">
+  <span>Veröffentlicht: </span><datetime>{{ date | dateformat }}</datetime>
+</h4>
+{% block content %}
 <article>{{ content }}</article>
 {% endblock %}

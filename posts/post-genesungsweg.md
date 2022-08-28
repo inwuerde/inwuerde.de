@@ -1,13 +1,13 @@
 ---
-title: Mein persönlicher Genesungsweg und das Bad Herrenalber Modell
-layout: layouts/bloglayout
+title: Mein persönlicher Genesungsweg und das Bad Herrenalber Modell (Teil 1)
+date: 2022-08-28 05:00:00
 ---
 
-## (Teil 1) Mein persönlicher Genesungsweg und das Bad Herrenalber Modell 
+## Mein persönlicher Genesungsweg und das Bad Herrenalber Modell 
 
 ![Die Kullenmühle - das alten Klinikgebäude der Bad Herrenalber Klinik](/assets/images/Kullenmuehle.png)
 
-Auszüge aus meinem Vortrag auf dem Kolloquium des Zentralinstituts für Seelische Gesundheit in Mannheim am 02.08.2022 über das Behandlungskonzept der Psychosomatischen Klinik Bad Herrenalb - ein Überblick über die Besonderheiten gemeinsam vorgetragen mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie
+_(Teil 1) Auszüge aus meinem Vortrag auf dem Kolloquium des Zentralinstituts für Seelische Gesundheit in Mannheim am 02.08.2022 über das Behandlungskonzept der Psychosomatischen Klinik Bad Herrenalb - ein Überblick über die Besonderheiten gemeinsam vorgetragen mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie_
 
 Mein Name ist Thomas Richter, ich bin 57 Jahre alt und habe noch in der DDR Psychologie studiert. Ich habe nach kurzer Zeit als wissenschaftlicher Mitarbeiter in der Forschung in die IT gewechselt und habe dann viele Jahre als Softwareentwickler gearbeitet. Seit November 2021 bin ich Mitglied im Betroffenbeirat des Zentralinstitutes für Seelische Gesundheit in Mannheim.
 

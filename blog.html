@@ -1,10 +1,16 @@
 ---
 title: Blog
-layout: layouts/bloglayout
+layout: layouts/blogindex
 ---
 
-<ul>
+<hr />
+
+<ul class="blogindex">
   {% for post in collections.posts %}
-  <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+  <li>
+    <a href="{{ post.url }}">{{ post.data.title }}</a><br />
+    <span>veröffentlicht:</span>
+    <datetime> {{ post.data.date | dateformat }}</datetime>
+  </li>
   {% endfor %}
 </ul>

@@ -2,7 +2,7 @@
 layout: layouts/default
 title: In Würde zu sich stehen
 ---
-[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [meine Geschichte](#bio) - [blog](/blog
+[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [Blog](/blog
 )
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
@@ -13,34 +13,34 @@ Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit
 
 Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen][7] und wurde von [Nicolas Rüsch und Kolleg:innen (Univ.-Ulm)][8] ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung][10]).
 
-## Arbeitsgruppe IWS in Köln
+## Arbeitsgruppe IWS in Köln [[^]](#top)
 
-In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden. [[^]](#top)
+In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden.
 
-## <a id="profis"></a>IWS betroffene Profis
+## <a id="profis"></a>IWS betroffene Profis [[^]](#top)
 
 Sich mit seiner eigenen Betroffenheit psychischer Erschütterung zu zeigen, ist in helfenden Berufen allgemein, aber insbesondere bei Helfern, die psychotherapeutisch arbeiten, in Deutschland immer noch ein großes Tabu. In Großbritannien existiert seit einiger Zeit eine Initiative von Betroffenen PsychotherapeutInnen und PsychologInnen, die dies ändern möchten [in2gr8mentalhealth][11]. Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
-Wir treffen uns zu unserer konstituierenden Zusammenkunft am 20.10.2022 um 16 Uhr im Zoom. Selbst betroffene InteressentInnen an diesem Austausch können mit uns gern per [Email](mailto:info@inwuerde.de?subject=IWS_betroffene_Profis) Kontakt aufnehmen. [[^]](#top)
+Wir treffen uns zu unserer konstituierenden Zusammenkunft am 20.10.2022 um 16 Uhr im Zoom. Selbst betroffene InteressentInnen an diesem Austausch können mit uns gern per [Email](mailto:info@inwuerde.de?subject=IWS_betroffene_Profis) Kontakt aufnehmen.
 
-## <a id="shg"></a>Selbsthilfgegruppe IWS (Zoom)
+## <a id="shg"></a>Selbsthilfgegruppe IWS (Zoom) [[^]](#top)
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
 Die nächsten Termine sind: 31.8., 14.9., 28.9. (Beginn 19 Uhr), 12.10. (Beginn 19 Uhr), 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
 
-Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:info@inwuerde.de?subject=IWS_SHG). [[^]](#top)
+Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:info@inwuerde.de?subject=IWS_SHG).
 
-## <a id="termine"></a>aktuelle Seminare
+## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
 - IWS 7 Online vom 20.07.2022 bis 10.08.2022 Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar __ausgebucht__.
 - IWS 8 Online vom 21.09.2022 bis 12.10.2022 Mittwochs jeweils 17 bis 19 Uhr als Zoom-Online-Seminar __ausgebucht__ [Warteliste, wenn jemand zurück tritt](mailto:info@inwuerde.de?subject=WartelisteIWS_8).
-- IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9). [[^]](#top)
+- IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9).
 
-## aktuelle Vorträge
+## aktuelle Vorträge [[^]](#top)
 
 Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesundheit][5] in Mannheim über meinen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich halte diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der psychosomatischen Klinik in Bad Herrenalb.
 
-## vergangene Seminare
+## vergangene Seminare [[^]](#top)
 
 - IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
@@ -50,9 +50,8 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 - IWS 23.09. bis 14.10.2021 Online
 - IWS 16.02.2022 bis 09.03.2022 als Zoom-Online-Seminar
 - IWS 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) als Zoom-Online-Seminar
-[[^]](#top)
 
-## vergangene Vorträge
+## vergangene Vorträge [[^]](#top)
 
 - Info-Vortrag mit Austausch zum Seminar IWS am 21.06.2021 auf einer Veranstaltung des [Selbsthilfe-Freizeitwerkes e.V.][4] in Zinnowitz
 - [Vortrag am 15.10.2021][13]
@@ -61,27 +60,26 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
 - Einführung in das Seminar IWS am 08.04.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann ([Präsentation](https://www.canva.com/design/DAE9SjDaopA/p2XjPElLGdmuVhg5T_F7aA/view?utm_content=DAE9SjDaopA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
-## Beiträge in sozialen Medien
+## Beiträge in sozialen Medien [[^]](#top)
 
 - [Blogartikel][12] über das Seminar IWS vom 2.11.2021
 - [Diskussionsveranstaltung auf Youtube][14] von __never code alone__ am 6.7.2022 mit Roland Golla, Susanne Neunes und Thomas Richter.
 
-## Aufnahme in die Interessentenliste
+## Aufnahme in die Interessentenliste [[^]](#top)
 
-Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS). [[^]](#top)
+Wenn sie über zukünftige Termine des Seminars __In Würde zu sich stehen__ informiert werden möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=InteressentInIWS).
 
-## Für (sozial)psychiatrische Einrichtungen
+## Für (sozial)psychiatrische Einrichtungen [[^]](#top)
 
-Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=AnfrageIWS). [[^]](#top)
+Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken Sie hier](mailto:info@inwuerde.de?subject=AnfrageIWS).
 
-## <a id="intervision"></a>Intervisionsgruppe IWS
+## <a id="intervision"></a>Intervisionsgruppe IWS [[^]](#top)
 
 Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das Seminar "In Würde zu sich stehen" im September 2021 an der Universität Ulm bei Prof. Dr. Nicolas Rüsch hat sich eine Intervisionsgruppe von Peer-Seminarleiter:innen gegründet, die sich regelmässig via Zoom trifft und gegenseitig unterstützt. Wenn Sie Peer-Seminarleiter:in sind und gern in diese Gruppe aufgenommen werden möchten, schreiben Sie mir eine [email](mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe).
 
 Die nächste Intervisionsgruppe findet per Zoom am 12.09.2022 von 16 bis 18 Uhr statt.
-[[^]](#top)
 
-## <a id="bio"></a>Über mich persönlich
+## <a id="bio"></a>Über mich persönlich [[^]](#top)
 
 Ich - Thomas Richter, 57 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfahrung einer
 psychischen Erkrankung. Mein beruflicher Weg führte mich nach dem Studium (Abschluss
@@ -98,12 +96,11 @@ Erkrankung machte es mir unmöglich, meine Arbeit erfolgreich zu bewältigen und
 Aus diesen Erfahrungen heraus setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein und biete das Seminar "In Würde zu sich stehen" für Betroffene an. Die Kraft von Recovery lernte ich in verschiedenen [Selbsthilfegruppen des 12-Schritte-Programmes][2] kennen. Seit dem Jahr 2021 bin ich Mitglied im [Betroffenenbeirat][6] des [Zentralinstituts für Seelische Gesundheit in Mannheim][5] und aktives Mitglied im [Selbsthilfe-Freizeitwerk e.V.][4] sowie im [Kölner Verein für Rehabilitation e.V.][3]. Seit November 2021 nehme ich auch an der [in2gr8 research group][1] teil.
 
 Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen.
-[[^]](#top)
 
 [1]: https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions "in2gr8 research group"
 [2]: https://www.a-freizeiten.de/gruppen.html "12 Schritte Gruppen"
 [3]: https://koelnerverein.de "Kölner Verein für Rehabilitation e.V."
-[4]: https://selbsthilfe-freizeitwerk.de "Selbsthilfe Freizeitwerk e.V."
+[4]: https://www.selbsthilfe-freizeitwerk.de "Selbsthilfe Freizeitwerk e.V."
 [5]: https://www.zi-mannheim.de/ "Zentralisititut für Seelische Gesundheit"
 [6]: https://www.zi-mannheim.de/forschung/betroffenenbeirat.html "Betroffenenbeirat"
 [7]: https://www.amazon.de/Coming-Proud-Stigma-Mental-Illness/dp/0578158566 "Coming out proud"

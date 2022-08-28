@@ -1,13 +1,13 @@
 ---
-title: Die 12 Schritte-Gruppen in der Bad Herrenalber Klinik
-layout: layouts/bloglayout
+title: Mein persönlicher Genesungsweg und das Bad Herrenalber Modell (Teil 2)
+date: 2022-08-28 06:00:00
 ---
 
-## (Teil 2) Die 12 Schritte-Gruppen in der Bad Herrenalber Klinik 
+## Die 12 Schritte-Gruppen in der Bad Herrenalber Klinik 
 
 ![Die Tafel mit den 12 Schritte Gruppen](/assets/images/Tafel-12schrittegruppen-bh.png)
 
-Auszüge aus meinem Vortrag auf dem Kolloquium des Zentralinstituts für Seelische Gesundheit in Mannheim am 02.08.2022 über das Behandlungskonzept der Psychosomatischen Klinik Bad Herrenalb - ein Überblick über die Besonderheiten gemeinsam vorgetragen mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie
+_(Teil 2) Auszüge aus meinem Vortrag auf dem Kolloquium des Zentralinstituts für Seelische Gesundheit in Mannheim am 02.08.2022 über das Behandlungskonzept der Psychosomatischen Klinik Bad Herrenalb - ein Überblick über die Besonderheiten gemeinsam vorgetragen mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie_
 
 Ich möchte jetzt über das Element der 12 Schritte Gruppen zu sprechen kommen. In der Klinik gab es an jedem Abend nach dem Abendessen die Möglichkeit an 12 Schritte Gruppen teilzunehmen. 
 
