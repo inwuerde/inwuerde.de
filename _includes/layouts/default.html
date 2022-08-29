@@ -1,3 +1,4 @@
+{% set assetHash = global.random() %}
 <!DOCTYPE html>
 <html lang="{{ site.locale }}">
   <head>
@@ -7,9 +8,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <style>
-      {% include "css/critical.css" %}
+      {% include 'css/critical.css' %}
     </style>
     <title>{{ title }}</title>
+    <link
+      rel="stylesheet"
+      media="print"
+      href="/assets/fonts/fonts.css?{{ assetHash }}"
+      onload="this.media='all'"
+    />
     <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css' }}" />
     <link

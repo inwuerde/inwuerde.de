@@ -32,6 +32,7 @@
   },
   "devDependencies": {
     "dayjs": "^1.11.5",
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0"
   }
 }
