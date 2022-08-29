@@ -9,5 +9,5 @@ layout: layouts/default
   <span>Veröffentlicht: </span><datetime>{{ date | dateformat }}</datetime>
 </h4>
 {% block content %}
-<article>{{ content }}</article>
+<article>{{ content | safe }}</article>
 {% endblock %}

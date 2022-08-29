@@ -6,6 +6,9 @@
     <meta name="generator" content="{{ eleventy.generator }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <style>
+      {% include "css/critical.css" %}
+    </style>
     <title>{{ title }}</title>
     <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
     <link rel="stylesheet" href="{{ '/assets/css/style.css' }}" />
@@ -32,7 +35,7 @@
             {% endblock %}
           </div>
         </header>
-        <section>{% block content %}{{ content }}{% endblock %}</section>
+        <section>{% block content %}{{ content | safe }}{% endblock %}</section>
         <footer>
           <a href="/">Home</a> | <a href="/datenschutz">Datenschutz</a> |
           <a href="/impressum">Impressum</a> | <a href="/blog">Blog</a> |
