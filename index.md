@@ -32,13 +32,12 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-- IWS 7 Online vom 20.07.2022 bis 10.08.2022 Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar __ausgebucht__.
 - IWS 8 Online vom 21.09.2022 bis 12.10.2022 Mittwochs jeweils 17 bis 19 Uhr als Zoom-Online-Seminar __ausgebucht__ [Warteliste, wenn jemand zurück tritt](mailto:info@inwuerde.de?subject=WartelisteIWS_8).
 - IWS 9 Online vom 23.11.2022 bis 14.12.2022  Mittwochs jeweils 14 bis 16 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=AnmeldungIWS_9).
 
 ## aktuelle Vorträge [[^]](#top)
 
-Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesundheit][5] in Mannheim über meinen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich halte diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der psychosomatischen Klinik in Bad Herrenalb.
+zur Zeit sind keine Vorträge geplant.
 
 ## vergangene Seminare [[^]](#top)
 
@@ -50,6 +49,7 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 - IWS 23.09. bis 14.10.2021 Online
 - IWS 16.02.2022 bis 09.03.2022 als Zoom-Online-Seminar
 - IWS 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) als Zoom-Online-Seminar
+- IWS 20.07.2022 bis 10.08.2022 als Zoom-Online-Seminar
 
 ## vergangene Vorträge [[^]](#top)
 
@@ -59,6 +59,8 @@ Am 02.08.2022 halte ich einen Vortrag beim [Zentralinstitut für Seelische Gesun
 - Vortrag am 11.11.2021 vor dem __Vorstand der Arbeitsgemeinschaft Gemeindepsychiatrie Rheinland e.V.__ in Hilden (via Zoom)
 - Vorstellung von IWS am 01.02.2022 in der __VHS Köln Mühlheim__
 - Einführung in das Seminar IWS am 08.04.2022 im Leitungsgremium des __Verbunds für Psychosoziale Dienstleistungen gGmbH__ Mettmann ([Präsentation](https://www.canva.com/design/DAE9SjDaopA/p2XjPElLGdmuVhg5T_F7aA/view?utm_content=DAE9SjDaopA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+- Vortrag am 02.08.2022 [Zentralinstitut für Seelische Gesundheit][5] in Mannheim über meinen 
+  Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Ich hielt diesen Vortrag gemeinsam mit Rolf Krause, Facharzt für Psychiatrie und Psychotherapie und ehemaliger Oberarzt der psychosomatischen Klinik in Bad Herrenalb.
 
 ## Beiträge in sozialen Medien [[^]](#top)
 
