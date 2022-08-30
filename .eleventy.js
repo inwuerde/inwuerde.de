@@ -20,14 +20,21 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(eleventyNavigationPlugin);
   eleventyConfig.setLibrary("md", markdownIt(options));
   eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
-  eleventyConfig.addWatchTarget("./assets/css/");
+  eleventyConfig.addWatchTarget("./assets/css/"); //TODO brauchen wir noch??
+  eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.addCollection("posts", function (collectionApi) {
     return collectionApi.getFilteredByGlob("posts/**/*.md");
   });
-  eleventyConfig.addLiquidFilter("dateformat", (date, format = "DD.MM.YYYY HH:mm") => {
-    return dayjs(date).format(format);
-  });
+  eleventyConfig.addNunjucksFilter(
+    "dateformat",
+    (date, format = "DD.MM.YYYY HH:mm") => {
+      return dayjs(date).format(format);
+    }
+  );
   return {
+    markdownTemplateEngine: "njk",
+    dataTemplateEngine: "njk",
+    htmlTemplateEngine: "njk",
     dir: {
       input: "./",
       data: "./_data",

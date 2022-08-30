@@ -6,5 +6,5 @@ layout: layouts/default
 <nav><a href="/">Home</a></nav>
 {% endblock %} {% block content %}
 
-<article>{{ content }}</article>
+<article>{{ content | safe }}</article>
 {% endblock %}
