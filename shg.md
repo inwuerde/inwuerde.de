@@ -3,7 +3,7 @@ layout: layouts/default
 title: In Würde zu sich stehen - Selbsthilfegruppe
 ---
 
-# Die Selbsthilfegruppe __In würde zu sich stehen__
+# Die Selbsthilfegruppe __In Würde zu sich stehen__
 
 Hier entsteht die Homepage der SHG "In würde zu sich stehen"
 Kommt Wieder - es funktioniert (bald :-) )
