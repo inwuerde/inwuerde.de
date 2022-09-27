@@ -26,9 +26,9 @@ Wir treffen uns zu unserer konstituierenden Zusammenkunft am 20.10.2022 um 16 Uh
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
-Die nächsten Termine sind: 31.8., 14.9., 28.9. (Beginn 19 Uhr), 12.10. (Beginn 19 Uhr), 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
+Die nächsten Termine sind: 28.9. (Beginn 19 Uhr), 12.10. (Beginn 19 Uhr), 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
 
-Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:info@inwuerde.de?subject=IWS_SHG).
+Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:shg.mittwoch@inwuerde.de?subject=IWS_SHG).
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
