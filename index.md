@@ -28,6 +28,8 @@ Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
 Die nächsten Termine sind: 28.9. (Beginn 19 Uhr), 12.10. (Beginn 19 Uhr), 26.10., 9.11., 23.11., 7.12. und 21.12. 2022
 
+Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegründet worden. Wir empfehlen vor der Teilnahme an der SHG die Teilnahme am Seminar IWS. In der SHG kann der Weg, der im Seminar begonnen hat, fortgesetzt und vertieft werden.
+
 Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:shg.mittwoch@inwuerde.de?subject=IWS_SHG).
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
