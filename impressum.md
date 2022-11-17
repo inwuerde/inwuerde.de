@@ -11,3 +11,4 @@ title: Impressum
 > Philippstraße 72–74<br>
 > 50823 Köln<br>
 > <info@inwuerde.de>
+> Mastodon: <i>@thomas@disabled.social</i>
