@@ -36,8 +36,8 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-- IWS Zoom-Online-Seminar am 19.01.2023, 26.01.2023, 2.2.2023 und 09.02.2023 von jeweils 16 bis 18 Uhr. [Anmeldung] (mailto:info@inwuerde.de?subject=Anmeldung_IWS_10).
-- IWS Zoom-Online-Seminar am 01.03.2023, 08.03.2023, 15.03.2023 und 22.03.2023 von jeweils 14:30 bis 16:30 Uhr. [Anmeldung] (mailto:info@inwuerde.de?subject=Anmeldung_IWS_11).
+- IWS Zoom-Online-Seminar am 19.01.2023, 26.01.2023, 2.2.2023 und 09.02.2023 von jeweils 16 bis 18 Uhr. [Anmeldung](mailto:info@inwuerde.de?subject=Anmeldung_IWS_10).
+- IWS Zoom-Online-Seminar am 01.03.2023, 08.03.2023, 15.03.2023 und 22.03.2023 von jeweils 14:30 bis 16:30 Uhr. [Anmeldung](mailto:info@inwuerde.de?subject=Anmeldung_IWS_11).
 
 ## aktuelle Vorträge [[^]](#top)
 
