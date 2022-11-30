@@ -36,8 +36,7 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-- IWS 10 Online 2. Januar-hälfte bis 1. Februar-hälfte 2023 als Zoom-Online-Seminar
-- IWS 11 Online vom 01.03.2023 bis 22.03.2023  Mittwochs jeweils 14:30 bis 16:30 Uhr als Zoom-Online-Seminar [Anmeldung](mailto:info@inwuerde.de?subject=IWS_11).
+Es wird im Januar/Februar und im März 2023 jeweils ein Online Seminar geben. Genaue Termine in Kürze inkl. Anmeldungsmöglichkeit.
 
 ## aktuelle Vorträge [[^]](#top)
 
