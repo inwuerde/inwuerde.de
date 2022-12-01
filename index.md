@@ -89,7 +89,7 @@ Die nächste Intervisionsgruppe findet per Zoom am 23.02.2023 von 16 bis 18 Uhr 
 
 ## <a id="bio"></a>Über mich persönlich [[^]](#top)
 
-Ich - Thomas Richter, 57 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfahrung einer
+Ich - Thomas Richter, 58 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfahrung einer
 psychischen Erkrankung. Mein beruflicher Weg führte mich nach dem Studium (Abschluss
 Sozialpsychologie an der Friedrich-Schiller-Universität Jena) über die Arbeit in der
 sozialpsychologischen Forschung in einem Graduiertenkolleg für Kognitionswissenschaften,
