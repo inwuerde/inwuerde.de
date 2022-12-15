@@ -28,7 +28,7 @@ Wir treffen uns zu unserer 2. Zusammenkunft am 12.12.2022 um 17 Uhr im Zoom. Sel
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
-Die nächsten Termine sind: 21.12. 2022, 04.01., 18.01., 01.02., 15.02., 01.03. 15.03. und 29.03. 2023
+Die nächsten Termine sind: 21.12. 2022, 18.01., 01.02., 15.02., 01.03. 15.03. und 29.03. 2023
 
 Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegründet worden. Wir empfehlen vor der Teilnahme an der SHG die Teilnahme am Seminar IWS. In der SHG kann der Weg, der im Seminar begonnen hat, fortgesetzt und vertieft werden.
 
