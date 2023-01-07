@@ -2,7 +2,7 @@
 layout: layouts/default
 title: In Würde zu sich stehen
 ---
-[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Betroffene Profis](#profis) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [Blog](/blog
+[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Krisenerfahrene Profis KEP](/kep) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [Blog](/blog
 )
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
@@ -16,13 +16,6 @@ Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick 
 ## Arbeitsgruppe IWS in Köln [[^]](#top)
 
 In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden.
-
-## <a id="profis"></a>Gruppe selbst betroffene Profis (Arbeitstitel) [[^]](#top)
-
-Sich mit seiner eigenen Betroffenheit psychischer Erschütterung zu zeigen, ist in helfenden Berufen allgemein, aber insbesondere bei Helfern, die psychotherapeutisch arbeiten, in Deutschland immer noch ein großes Tabu. In Großbritannien existiert seit einiger Zeit eine Initiative von Betroffenen PsychotherapeutInnen und PsychologInnen, die dies ändern möchten [in2gr8mentalhealth][11]. Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
-
-Nachdem ein [Aufruf zu Gruppengründung][16] einer solchen Gruppe in Deutschland in den sozialen Medien (insbesondere im Rundbrief der DGSP) zirkulierte, nahmen am 20.10.2022 46 Menschen an der Gründungsveranstaltunng der Gruppe teil. Es wurde ein Orga-Team gebildet mit z. Z. vier Personen.
-Wir treffen uns zu unserer 2. Zusammenkunft am 12.12.2022 um 17 Uhr im Zoom. Selbst betroffene Profis, die sich für die Mitarbeit in dieser Gruppe interessieren, können mit uns gern per [Email](mailto:info@inwuerde.de?subject=IWS_betroffene_Profis) Kontakt aufnehmen.
 
 ## <a id="shg"></a>Selbsthilfgegruppe IWS (Zoom) [[^]](#top)
 
@@ -120,4 +113,3 @@ Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen ge
 [13]: https://seelische-gesundheit-koeln-bonn.de/events/in-wuerde-zu-sich-stehen-ein-programm-zum-training-der-offenlegungsentscheidung-bei-psychischer-erkrankung/ "Vortrag zur Woche der Seelischen Gesundheit 2021 in Köln"
 [14]: https://youtu.be/XpvQ7YD2kT4 "Thomas Richter bei Never Code Alone"
 [15]: https://forum-herrenalber-modell.de/ "Forum Herrenalber Modell e.V."
-[16]: https://www.dgsp-ev.de/fileadmin/user_files/dgsp/Bilder/Newsletter_Bilder/allgemein/Aufruf_selbstbetroffene_Profis.pdf "Aufruf zur Gruppengründung betroffene Profis"
