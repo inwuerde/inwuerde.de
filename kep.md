@@ -1,5 +1,5 @@
 ---
-layout: layouts/default
+layout: layouts/kep
 title: Krisenerfahrene Profis - KEP
 ---
 
