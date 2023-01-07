@@ -3,8 +3,6 @@ layout: layouts/kep
 title: Krisenerfahrene Profis - KEP
 ---
 
-## Krisenerfahrene Profis
-
 Sich mit eigener Betroffenheit psychischer Erschütterung zu zeigen, ist als professionell Tätige*r im psychosozialen Bereich in Deutschland immer noch ein großes Tabu. In Großbritannien existiert seit einiger Zeit eine Initiative von Betroffenen PsychotherapeutInnen und PsychologInnen, die dies ändern möchten [in2gr8mentalhealth][1]. Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
 
 Aber wieso wird das Thema der eigenen Betroffenheit bei Profis immer noch als Makel gesehen und nicht als Ressource gelebter Erfahrung gewürdigt? Sind Erfahrungen von eigener Erschütterung nicht etwas zutiefst Menschliches? Birgt nicht gerade die Geheimhaltung vielfältige negative Risiken, sowohl im Umgang mit sich selbst als auch im Umgang mit Klient*innen?
