@@ -21,7 +21,8 @@ In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Wür
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
-Die nächsten Termine sind: 21.12. 2022, 18.01., 01.02., 15.02., 01.03. 15.03. und 29.03. 2023
+Die nächsten Termine sind: 01.03., 15.03., 29.03.,
+12.4., 26.4., 10.5., 24.5., 7.6., 21.6. 2023
 
 Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegründet worden. Wir empfehlen vor der Teilnahme an der SHG die Teilnahme am Seminar IWS. In der SHG kann der Weg, der im Seminar begonnen hat, fortgesetzt und vertieft werden.
 
@@ -29,7 +30,6 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-- IWS Zoom-Online-Seminar am 19.01.2023, 26.01.2023, 2.2.2023 und 09.02.2023 von jeweils 16 bis 18 Uhr.
 - IWS Zoom-Online-Seminar am 01.03.2023, 08.03.2023, 15.03.2023 und 22.03.2023 von jeweils 14:30 bis 16:30 Uhr. [Warteliste](mailto:info@inwuerde.de?subject=Anmeldung_IWS_11_Warteliste).
 
 ## aktuelle Vorträge [[^]](#top)
@@ -49,6 +49,7 @@ zur Zeit sind keine Vorträge geplant.
 - IWS 20.07.2022 bis 10.08.2022 als Zoom-Online-Seminar
 - IWS 21.09.2022 bis 12.10.2022 als Zoom-Online-Seminar
 - IWS 23.11.2022 bis 14.12.2022 als Zoom-Online-Seminar
+- IWS 19.01.2023 bis 09.02.2023 als Zoom-Online-Seminar
 
 ## vergangene Vorträge [[^]](#top)
 
