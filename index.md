@@ -79,8 +79,6 @@ Wenn sie mich für ein Seminar oder eine Peer-Keynote buchen möchten, [klicken 
 
 Während des __Seminars zur Ausbildung von Peer-Seminarleiter:innen__ für das Seminar "In Würde zu sich stehen" im September 2021 an der Universität Ulm bei Prof. Dr. Nicolas Rüsch hat sich eine Intervisionsgruppe von Peer-Seminarleiter:innen gegründet, die sich regelmässig via Zoom trifft und gegenseitig unterstützt. Wenn Sie Peer-Seminarleiter:in sind und gern in diese Gruppe aufgenommen werden möchten, schreiben Sie mir eine [email](mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe).
 
-Die nächste Intervisionsgruppe findet per Zoom am 23.02.2023 von 16 bis 18 Uhr statt.
-
 ## <a id="bio"></a>Über mich persönlich [[^]](#top)
 
 Ich - Thomas Richter, 58 Jahre alt - bin ein Diplom-Psychologe  mit eigener Erfahrung einer
