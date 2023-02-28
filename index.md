@@ -21,7 +21,7 @@ In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Wür
 
 Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
-Die nächsten Termine sind: 01.03., 15.03., 29.03.,
+Die nächsten Termine sind: 01.03., 15.03.,
 12.4., 26.4., 10.5., 24.5., 7.6., 21.6. 2023
 
 Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegründet worden. Wir empfehlen vor der Teilnahme an der SHG die Teilnahme am Seminar IWS. In der SHG kann der Weg, der im Seminar begonnen hat, fortgesetzt und vertieft werden.
