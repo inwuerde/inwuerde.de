@@ -30,7 +30,7 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-- IWS Zoom-Online-Seminar am 01.03.2023, 08.03.2023, 15.03.2023 und 22.03.2023 von jeweils 14:30 bis 16:30 Uhr. [Warteliste](mailto:info@inwuerde.de?subject=Anmeldung_IWS_11_Warteliste).
+zur Zeit sind keine Semkinare geplant.
 
 ## aktuelle Vorträge [[^]](#top)
 
@@ -50,6 +50,7 @@ zur Zeit sind keine Vorträge geplant.
 - IWS 21.09.2022 bis 12.10.2022 als Zoom-Online-Seminar
 - IWS 23.11.2022 bis 14.12.2022 als Zoom-Online-Seminar
 - IWS 19.01.2023 bis 09.02.2023 als Zoom-Online-Seminar
+- IWS 01.03.2023 bis 22.03.2023 als Zoom-Online-Seminar
 
 ## vergangene Vorträge [[^]](#top)
 

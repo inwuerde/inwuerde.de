@@ -17,6 +17,20 @@ Wir haben uns zu unserer 2. Zusammenkunft am 12.12.2022 um 17:00 Uhr im Zoom get
 Um Verwechslung mit dem [Referat Selbst Betroffene Profis][3] der Deutschen Gesellschaft für Bipolare Störungen zu vermeiden, nennen wir uns seit Januar 2023 __Krisenerfahrene Profis__.
 
 Aktuell treffen wir uns einmal pro Monat für zwei Stunden via Zoom. Unsere Treffen sind offen für Mitgestaltung und setzen sich aktuell aus fachlichem Input und Erfahrungsaustausch zusammen. Der Wochentag an dem die Treffen stattfinden variiert, sodass möglichst viele Menschen teilnehmen können. 
+
+Unsere eigene Krisenerfahrungen ist so verschieden, wie es auch unterschiedliche individuelle Wege der Genesung gibt. Deshalb ist es uns wichtig zu betonen, untereinander eine Haltung von Toleranz gegenüber jenen Menschen mit anderen Schwierigkeiten zu praktizieren.
+
+Die Termine für unsere Treffen via Zoom in 2023 sind:
+
+- 27.04.2023 18 bis 20 Uhr
+- 22.05.2023 18 bis 20 Uhr
+- 26.07.2023 18 bis 20 Uhr
+- 31.08.2023 18 bis 20 Uhr
+- 25.09.2023 18 bis 20 Uhr
+- 24.10.2023 18 bis 20 Uhr
+- 29.11.2023 18 bis 20 Uhr
+- 21.12.2023 18 bis 20 Uhr
+
 Betroffene Mitarbeiter:innen des psychosozialen Bereichs, die sich für die Gruppe interessieren, können sich uns sehr gerne anschließen. Kontakt: <krisenerfahreneprofis@gmail.com>
 
 [1]: https://www.in2gr8mentalhealth.com "In2g8mentalhealth"
