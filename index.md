@@ -30,7 +30,7 @@ Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailt
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-zur Zeit sind keine Semkinare geplant.
+zur Zeit sind keine Seminare geplant.
 
 ## aktuelle Vorträge [[^]](#top)
 
