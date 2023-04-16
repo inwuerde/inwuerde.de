@@ -18,7 +18,7 @@ Um Verwechslung mit dem [Referat Selbst Betroffene Profis][3] der Deutschen Gese
 
 Aktuell treffen wir uns einmal pro Monat für zwei Stunden via Zoom. Unsere Treffen sind offen für Mitgestaltung und setzen sich aktuell aus fachlichem Input und Erfahrungsaustausch zusammen. Der Wochentag an dem die Treffen stattfinden variiert, sodass möglichst viele Menschen teilnehmen können. 
 
-Unsere eigene Krisenerfahrungen sind so verschieden, wie es auch unterschiedliche individuelle Wege der Genesung gibt. Deshalb ist es uns wichtig zu betonen, das wir untereinander eine Haltung von Toleranz gegenüber jenen Menschen mit anderen Schwierigkeiten praktizieren möchten.
+Unsere eigenen Krisenerfahrungen sind so verschieden, wie es auch unterschiedliche individuelle Wege der Genesung gibt. Deshalb ist es uns wichtig zu betonen, das wir untereinander eine Haltung von Toleranz gegenüber jenen Menschen mit anderen Schwierigkeiten praktizieren möchten.
 
 Die Termine für unsere Treffen via Zoom in 2023 sind:
 
