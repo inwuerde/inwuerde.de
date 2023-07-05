@@ -41,5 +41,5 @@ Betroffene Mitarbeiter:innen des psychosozialen Bereichs, die sich für die Grup
 [1]: https://www.in2gr8mentalhealth.com "In2g8mentalhealth"
 [2]: https://www.dgsp-ev.de/fileadmin/user_files/dgsp/Bilder/Newsletter_Bilder/allgemein/Aufruf_selbstbetroffene_Profis.pdf "Aufruf zur Gruppengründung betroffne Profis"
 [3]: https://dgbs.de/verein/dgbs-referate/referat-betroffene-und-profis "DGBS-Referat Selbst Betroffene Profis"
-[4]: https://inwurde.de/images/PSUKEP-klein.png
-[5]: https://inwuerde.de/files/PSUKEP.pdf
+[4]: https://inwurde.de/assets/images/PSUKEP-klein.png
+[5]: https://inwuerde.de/assets/files/PSUKEP.pdf
