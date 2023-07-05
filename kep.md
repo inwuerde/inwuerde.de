@@ -24,9 +24,6 @@ Im Heft 1 / 23 der Psychosozialem Umschau wurde in einem Artikel von Peter Heuch
 
 [![PSU Artikel Als Profi über die eigene Krisenerfahrung sprechen von Peter Heuchemer][4]][5]
 
-[1]: http://www.die-url-zum-bild.png
-[2]: https://www.perun.net
-
 Die Termine für unsere Treffen via Zoom in 2023 sind:
 
 - 27.04.2023 18 bis 20 Uhr
