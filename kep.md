@@ -20,7 +20,7 @@ Aktuell treffen wir uns einmal pro Monat für zwei Stunden via Zoom. Unsere Tref
 
 Unsere eigenen Krisenerfahrungen sind so verschieden, wie es auch unterschiedliche individuelle Wege der Genesung gibt. Deshalb ist es uns wichtig zu betonen, das wir untereinander eine Haltung von Toleranz gegenüber jenen Menschen mit anderen Schwierigkeiten praktizieren möchten.
 
-Im Heft 1 / 23 der Psychosozialem Umschau wurde in einem Artikel von Peter Heuchemer über unsere Gruppe berichtet:
+In der Zeitschrift _Psychosoziale Umschau 2/2023_ wurde in einem Artikel von Peter Heuchemer über unsere Gruppe berichtet:
 
 [![PSU Artikel Als Profi über die eigene Krisenerfahrung sprechen von Peter Heuchemer][4]][5]
 
