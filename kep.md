@@ -20,6 +20,13 @@ Aktuell treffen wir uns einmal pro Monat für zwei Stunden via Zoom. Unsere Tref
 
 Unsere eigenen Krisenerfahrungen sind so verschieden, wie es auch unterschiedliche individuelle Wege der Genesung gibt. Deshalb ist es uns wichtig zu betonen, das wir untereinander eine Haltung von Toleranz gegenüber jenen Menschen mit anderen Schwierigkeiten praktizieren möchten.
 
+Im Heft 1 / 23 der Psychosozialem Umschau wurde in einem Artikel von Peter Heuchemer über unsere Gruppe berichtet:
+
+[![PSU Artikel Als Profi über die eigene Krisenerfahrung sprechen von Peter Heuchemer][4]][5]
+
+[1]: http://www.die-url-zum-bild.png
+[2]: https://www.perun.net
+
 Die Termine für unsere Treffen via Zoom in 2023 sind:
 
 - 27.04.2023 18 bis 20 Uhr
@@ -37,3 +44,5 @@ Betroffene Mitarbeiter:innen des psychosozialen Bereichs, die sich für die Grup
 [1]: https://www.in2gr8mentalhealth.com "In2g8mentalhealth"
 [2]: https://www.dgsp-ev.de/fileadmin/user_files/dgsp/Bilder/Newsletter_Bilder/allgemein/Aufruf_selbstbetroffene_Profis.pdf "Aufruf zur Gruppengründung betroffne Profis"
 [3]: https://dgbs.de/verein/dgbs-referate/referat-betroffene-und-profis "DGBS-Referat Selbst Betroffene Profis"
+[4]: https://inwurde.de/images/PSUKEP-klein.png
+[5]: https://inwuerde.de/files/PSUKEP.pdf
