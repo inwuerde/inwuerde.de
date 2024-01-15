@@ -3,6 +3,21 @@ layout: layouts/kep
 title: KrisenErfahreneProfis
 ---
 
+## Aktuelle Termine
+
+Die Termine für unsere Treffen via Zoom in 2024 sind:
+
+- XX.01.2024 18 bis 20 Uhr
+- XX.02.2024 18 bis 20 Uhr
+- XX.03.2024 18 bis 20 Uhr
+- XX.04.2024 18 bis 20 Uhr
+- XX.05.2024 18 bis 20 Uhr
+- XX.06.2024 18 bis 20 Uhr
+- XX.08.2024 18 bis 20 Uhr
+- XX.09.2024 18 bis 20 Uhr
+
+## Über die Entstehungsgeschichte der Gruppe der __Kriseneerfahrenen Profis__
+
 Sich mit eigener Betroffenheit psychischer Erschütterung zu zeigen, ist als professionell Tätige:r im psychosozialen Bereich in Deutschland immer noch ein großes Tabu. In Großbritannien existiert seit einiger Zeit eine Initiative von betroffenen Psychotherapeut:innen und Psycholog:innen, die dies ändern möchten [in2gr8mentalhealth][1]. Es geht um Wertschätzung, Entstigmatisierung und Unterstützung gelebter Erfahrungen mit psychischen Gesundheitsproblemen bei Fachleuten für psychische Gesundheit.
 
 Aber wieso wird das Thema der eigenen Betroffenheit bei Profis immer noch als Makel gesehen und nicht als Ressource gelebter Erfahrung gewürdigt? Sind Erfahrungen von eigener Erschütterung nicht etwas zutiefst Menschliches? Birgt nicht gerade die Geheimhaltung vielfältige negative Risiken, sowohl im Umgang mit sich selbst als auch im Umgang mit Klient:innen?
@@ -23,18 +38,6 @@ Unsere eigenen Krisenerfahrungen sind so verschieden, wie es auch unterschiedlic
 In der Zeitschrift _Psychosoziale Umschau 2/2023_ wurde in einem Artikel von Peter Heuchemer über unsere Gruppe berichtet:
 
 [![PSU Artikel Als Profi über die eigene Krisenerfahrung sprechen von Peter Heuchemer][4]][5]
-
-Die Termine für unsere Treffen via Zoom in 2023 sind:
-
-- 27.04.2023 18 bis 20 Uhr
-- 22.05.2023 18 bis 20 Uhr
-- 27.06.2023 18 bis 20 Uhr
-- 26.07.2023 18 bis 20 Uhr
-- 31.08.2023 18 bis 20 Uhr
-- 25.09.2023 18 bis 20 Uhr
-- 24.10.2023 18 bis 20 Uhr
-- 29.11.2023 18 bis 20 Uhr
-- 21.12.2023 18 bis 20 Uhr
 
 Betroffene Mitarbeiter:innen des psychosozialen Bereichs, die sich für die Gruppe interessieren, können sich uns sehr gerne anschließen. Kontakt: <krisenerfahreneprofis@gmail.com>
 
