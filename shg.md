@@ -3,12 +3,14 @@ layout: layouts/default
 title: In Würde zu sich stehen - Selbsthilfegruppe
 ---
 
-Hier entsteht die Homepage der SHG "In Würde zu sich stehen"
-__Kommt wieder - es funktioniert!__ ( :-) )__
+Es gibt __seit dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 
 Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegründet worden. Wir empfehlen vor der Teilnahme an der SHG die Teilnahme am Seminar IWS. In der SHG kann der Weg, der im Seminar begonnen hat, fortgesetzt und vertieft werden.
 
 Die Gruppe findet Mittwoch alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
+
+Hier die Termine im 1. HJ 2024:
+
 - 24.Jan. 2024 06:00 PM
 - 7.Feb. 2024 06:00 PM
 - 21.Feb. 2024 06:00 PM

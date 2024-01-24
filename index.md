@@ -2,7 +2,7 @@
 layout: layouts/default
 title: In Würde zu sich stehen
 ---
-[Termine](#termine) - [Selbsthilfegruppe](#shg) - [Krisenerfahrene Profis KEP](/kep) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [Blog](/blog
+[Termine](#termine) - [Selbsthilfegruppe](/shg) - [Krisenerfahrene Profis KEP](/kep) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [Blog](/blog
 )
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
@@ -16,17 +16,6 @@ Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick 
 ## Arbeitsgruppe IWS in Köln [[^]](#top)
 
 In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden.
-
-## <a id="shg"></a>Selbsthilfgegruppe IWS (Zoom) [[^]](#top)
-
-Es gibt __ab dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
-Sie findet alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
-Die nächsten Termine sind: 01.03., 15.03.,
-12.4., 26.4., 10.5., 24.5., 7.6., 21.6. 2023
-
-Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegründet worden. Wir empfehlen vor der Teilnahme an der SHG die Teilnahme am Seminar IWS. In der SHG kann der Weg, der im Seminar begonnen hat, fortgesetzt und vertieft werden.
-
-Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:shg.mittwoch@inwuerde.de?subject=IWS_SHG).
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
