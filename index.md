@@ -13,10 +13,6 @@ Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit
 
 Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen][7] und wurde von [Nicolas Rüsch und Kolleg:innen (Univ.-Ulm)][8] ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung][10]).
 
-## Arbeitsgruppe IWS in Köln [[^]](#top)
-
-In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Würde zu sich stehen__ sowie für weitere Anti-Stigma-Initiativen für Menschen in der Stadt Köln. Wir treffen uns ca. alle 3 Monate um uns über Aktivitäten auszutauschen und zukünftige Projekte zu planen. Moderator der AG ist Herr Joachim Eischeid (SPZ Mühlheim). InteressenInnen für die Mitarbeit in der AG können sich per [Email](mailto:info@inwuerde.de?subject=IWS_AG_Koeln) anmelden.
-
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
 - IWS-Online Seminar 03.09. bis 24.09.2024 jeweils 14 bis 16 Uhr via Zoom. [Anmeldung](mailto:info@inwuerde.de?subject=IWS_12_Anmeldung)
