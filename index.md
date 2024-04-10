@@ -19,7 +19,10 @@ In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Wür
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-zur Zeit sind keine Seminare geplant.
+- IWS-Online Seminar 03.09. bis 24.09.2024 jeweils 14 bis 16 Uhr via Zoom. [Anmeldung](mailto:info@inwuerde.de?subject=IWS_12_Anmeldung)
+- IWS-Online Seminar 01.10. bis 22.10.2024 jeweils 18 bis 20 Uhr via Zoom. [Anmeldung](mailto:info@inwuerde.de?subject=IWS_13_Anmeldung)
+
+Bezahlung auf Spendenbasis: [Value4Value](https://value4value.info/). Gib was Du geben kannst und was es Dir wert ist.
 
 ## aktuelle Vorträge [[^]](#top)
 
