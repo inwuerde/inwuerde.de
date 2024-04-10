@@ -22,7 +22,7 @@ In Köln gibt es eine Arbeitsgruppe zur Verbreitung des Programmes von __In Wür
 - IWS-Online Seminar 03.09. bis 24.09.2024 jeweils 14 bis 16 Uhr via Zoom. [Anmeldung](mailto:info@inwuerde.de?subject=IWS_12_Anmeldung)
 - IWS-Online Seminar 01.10. bis 22.10.2024 jeweils 18 bis 20 Uhr via Zoom. [Anmeldung](mailto:info@inwuerde.de?subject=IWS_13_Anmeldung)
 
-Das Seminar besteht aus insgesamt 4 mal 2h, die im Wochenabstand durchgeführt werden. TeilnehmerInnen bekommen vor Seminarbeginn ein Seminarhandbuch als pdf zugesendet. Zu jedem Seminartermin sollten einzelne Arbeitsblätter aus dem Handbuch ausgedruckt für die Übungen vorliegen. Dies wird per Email rechtzeitig vor dem einzelnen Seminartermin bekannt gegeben. 
+Das Seminar besteht aus insgesamt 4 Zoom-Gruppensitzungen a 2h (Nach 1 Stunde ist jeweils eine 10 minütige Pause), die im Wochenabstand durchgeführt werden. TeilnehmerInnen bekommen vor Seminarbeginn ein Seminarhandbuch als pdf zugesendet. Vor jedem Seminartermin sollten einzelne Arbeitsblätter aus dem Handbuch ausgedruckt für die Übungen vorliegen. Dies wird per Email rechtzeitig vor dem einzelnen Seminartermin bekannt gegeben. 
 
 Bezahlung auf Spendenbasis: [Value4Value](https://value4value.info/). Gib was Du geben kannst und was es Dir wert ist.
 
