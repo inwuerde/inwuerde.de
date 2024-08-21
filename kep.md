@@ -7,17 +7,11 @@ title: KrisenErfahreneProfis
 
 Die Termine für unsere Treffen via Zoom in 2024 sind:
 
-- 29.01.2024 18 bis 20 Uhr Mad Pride Day
-- 27.02.2024 18 bis 20 Uhr Buchvorstellung Sybille Prins - Seitenwechsel
-- 20.03.2024 18 bis 20 Uhr Ambulante Behandlungsweisung
-- 25.04.2024 18 bis 20 Uhr Notwendigkeit Psychiatrische Diagnosen ?!
-- 27.05.2024 18 bis 20 Uhr Offener Dialog
-- 25.06.2024 18 bis 20 Uhr Projektvorstellung "Diagnose Arbeitsfähig"
 - 28.08.2024 18 bis 20 Uhr Neue Behandlungsansätze (DiGAs)
-- 26.09.2024 18 bis 20 Uhr Psychismus
-- 28.10.2024 18 bis 20 Uhr -- noch offen --
+- 26.09.2024 18 bis 20 Uhr Imposter Syndrom: Darf ich hier überhaupt arbeiten, wenn ich krank bin?
+- 28.10.2024 18 bis 20 Uhr Selbstoffenbarung betroffener Profis - Einblicke in die eigene Forschung & Diskussion
 - 26.11.2024 18 bis 20 Uhr Zwang in der Psychiatrie
-- 18.12.2024 18 bis 20 Uhr -- noch offen --
+- 18.12.2024 18 bis 20 Uhr Ex-In
 
 ## Über die Entstehungsgeschichte der Gruppe der __Kriseneerfahrenen Profis__
 
