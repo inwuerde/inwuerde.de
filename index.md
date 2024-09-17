@@ -16,7 +16,6 @@ Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
 - IWS-Online Seminar 10.09. bis 24.09.2024 (3 Termine) (und eine Wiederholungs-Session im November) jeweils 15 bis 17 Uhr via Zoom. [Anmeldung](mailto:info@inwuerde.de?subject=IWS_12_Anmeldung)
-- IWS-Online Seminar 01.10. bis 22.10.2024 (4 Termine) jeweils 18 bis 20 Uhr via Zoom. [Warteliste](mailto:info@inwuerde.de?subject=IWS_13_Anmeldung_Warteliste)
 
 Das Seminar besteht aus insgesamt 4 Zoom-Gruppensitzungen a 2h (Nach 1 Stunde ist jeweils eine 10 minütige Pause), die im Wochenabstand durchgeführt werden. TeilnehmerInnen bekommen vor Seminarbeginn ein Seminarhandbuch als pdf zugesendet. Vor jedem Seminartermin sollten einzelne Arbeitsblätter aus dem Handbuch ausgedruckt für die Übungen vorliegen. Dies wird per Email rechtzeitig vor dem einzelnen Seminartermin bekannt gegeben. 
 
