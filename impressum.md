@@ -12,3 +12,4 @@ title: Impressum
 > 50823 Köln<br>
 > <info@inwuerde.de>
 > Mastodon: <i>@thomas@disabled.social</i>
+> nostr: npub1myfw2kw3end6sysw00nw6zdalnm96755t8vnz6ccj8uvnd9aehzq2mcnlj
