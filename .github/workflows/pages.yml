@@ -1,38 +1,31 @@
 name: Build and Deploy
-
 on:
   push:
-    branches: ['master']
-    
-  workflow_dispatch:
+    branches:
+      - main  # ODER "master", je nach Standard Ihres Repos
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: ['20']
-
-    permissions:
-      contents: write
-
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
+          node-version: "20.x"
+          cache: "npm"  # Speichert das node_modules-Verzeichnis zwischengespeichert
 
-      - name: Install packages
-        run: npm ci
+      - name: Install Dependencies
+        run: npm ci  # Statt "npm install" für saubere Installation
 
-      - name: Run npm build
-        run: npm run build:prod
+      - name: Build with Eleventy
+        run: npx @11ty/eleventy --quiet
 
-      - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4  # Aktuellste Version verwenden
         with:
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site  # Standard-Output-Verzeichnis von Eleventy
+          publish_branch: gh-pages  # Zielt auf den GitHub-Pages-Branch
