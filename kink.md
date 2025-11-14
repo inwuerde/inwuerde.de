@@ -11,9 +11,9 @@ gegenüber potentiellen PartnerInnen offen zu legen.
 
 Überlegungen dazu zeigt das folgende Video:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F0LS8RQSfdc?si=FR-ugGpc7tgm-1QV" title="YouTube video player" frameborder="0" 
+<iframe src="https://www.youtube.com/embed/F0LS8RQSfdc?si=FR-ugGpc7tgm-1QV" title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
-allowfullscreen></iframe>
+allowfullscreen data-scaling="true"></iframe>
 <style>
 iframe[data-scaling="true"] {
   min-width: 100%;
