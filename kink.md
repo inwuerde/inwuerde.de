@@ -3,7 +3,10 @@ layout: layouts/default
 title: In Würde zu sich stehen - Seminar zur Offenlegung einer kinky Identität
 ---
 
-Ich plane für 2026 eine neue Form des "In Würde zu sich stehen"-Offenlegungsseminar für Menschen, die Schwierigkeiten haben (Selbsth-Stigma) ihre Kinke Identität 
+[Home](/) - [Meine Geschichte](#bio) - [IWS kink](/kink) - [Blog](/blog)
+
+Ich plane für 2026 eine neue Form des "In Würde zu sich stehen"-Offenlegungsseminar für Menschen, die Schwierigkeiten haben
+und unter Selbst-Stigmatisierung leiden, ihre kinky-Identität 
 gegenüber potentiellen PartnerInnen offen zu legen.
 
 Überlegungen dazu zeigt das folgende Video:
@@ -20,4 +23,4 @@ Im Gegensatz dazu konzentriert sich die zweite Quelle, dein deutsches Arbeitsbuc
 Stigmas psychischer Erkrankungen, indem sie Teilnehmern Strategien zur bewussten Entscheidung über das Teilen ihrer Erfahrungen und die Nutzung von 
 Peer-Unterstützung vermittelt.
 
-Zur [Aufnahme in die Interessentenliste](mailto:info@inwuerde.de?subject=IWS_Kink)
+Zur [Aufnahme in die Interessentenliste](mailto:info@inwuerde.de?subject=IWS_Kink) für eine Seminarteilnahme.
