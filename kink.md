@@ -14,6 +14,12 @@ gegenüber potentiellen PartnerInnen offen zu legen.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F0LS8RQSfdc?si=FR-ugGpc7tgm-1QV" title="YouTube video player" frameborder="0" 
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen></iframe>
+<style>
+iframe[data-scaling="true"] {
+  min-width: 100%;
+  max-width: 100%;
+}
+</style>
 
 Das Video behandelt das Thema der Offenlegung und des Stigmas im Kontext von Identitäten, die gesellschaftlich negativ beurteilt werden. Die erste Quelle untersucht 
 Offenlegung von BDSM-Interessen (Bondage, Dominanz, Sadismus, Masochismus) und die damit verbundenen Herausforderungen, wobei sie hervorhebt, dass BDSM trotz 
