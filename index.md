@@ -2,7 +2,7 @@
 layout: layouts/default
 title: In Würde zu sich stehen
 ---
-[Termine](#termine) - [Selbsthilfegruppe](/shg) - [Krisenerfahrene Profis KEP](/kep) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [Blog](/blog
+[Termine](#termine) - [Selbsthilfegruppe](/shg) - [Krisenerfahrene Profis KEP](/kep) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [IWS kink](/kink) - [Blog](/blog
 )
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
