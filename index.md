@@ -25,7 +25,7 @@ Bezahlung auf Spendenbasis: [Value4Value](https://value4value.info/). Gib was Du
 
 zur Zeit sind keine Vorträge geplant.
 
-## vergangene Seminare [[^]](#top)
+## vergangene Seminare (16 Seminare durchgeführt) [[^]](#top)
 
 - IWS 11.04. bis 02.05.2019 in der ambulanten medizinischen Reha (Tagesklinik OSKAR) Köln
 - IWS 24.11. bis 15.12.2020 in SPZ Ehrenfeld ([Präsentation](/assets/files/FolienIWS_SPZ20.pdf))
@@ -34,12 +34,16 @@ zur Zeit sind keine Vorträge geplant.
 - IWS 29.06. bis 20.07.2021 Online ([Präsentation](/assets/files/FolienIWS_online.pdf))
 - IWS 23.09. bis 14.10.2021 Online
 - IWS 16.02.2022 bis 09.03.2022 als Zoom-Online-Seminar
-- IWS 27.04.2022 bis 11.05.2022 und am 1.6.2022 (Booster) als Zoom-Online-Seminar
+- IWS 27.04.2022 bis 01.06.2022 als Zoom-Online-Seminar
 - IWS 20.07.2022 bis 10.08.2022 als Zoom-Online-Seminar
 - IWS 21.09.2022 bis 12.10.2022 als Zoom-Online-Seminar
 - IWS 23.11.2022 bis 14.12.2022 als Zoom-Online-Seminar
 - IWS 19.01.2023 bis 09.02.2023 als Zoom-Online-Seminar
 - IWS 01.03.2023 bis 22.03.2023 als Zoom-Online-Seminar
+- IWS 10.09.2024 bis 24.09.2024 als Zoom-Online-Seminar 
+- IWS 07.05.2025 bis 04.06.2025 als Zoom-Online-Seminar (value4value)
+- IWS (für Uni Ulm) 08.10.2025 bis 29.10.2025 als Zoom-Online-Seminar.
+
 
 ## vergangene Vorträge [[^]](#top)
 
