@@ -15,7 +15,7 @@
     <link
       rel="stylesheet"
       media="print"
-      href="/assets/fonts/fonts.css?1ada-b65c-1969"
+      href="/assets/fonts/fonts.css?622c-1dcf-c0aa"
       onload="this.media='all'"
     />
     <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
@@ -56,11 +56,16 @@ gegenüber potentiellen PartnerInnen offen zu legen.</p>
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen data-scaling="true"></iframe>
 <style>
-iframe[data-scaling="true"] {
-  min-width: 100%;
-  max-width: 100%;
-  min-height: 100%;
-  max-height: 100%;
+    iframe[data-scaling="true"] {
+      height: 400px;
+      min-width: 100%;
+      max-width: 100%;
+    }
+  @media only screen and (max-width: 600px) {
+    iframe[data-scaling="true"] {
+      height: 250px;
+      max-width: 100%;
+    }
 }
 </style>
 <p>Das Video behandelt das Thema der Offenlegung und des Stigmas im Kontext von Identitäten, die gesellschaftlich negativ beurteilt werden. Die erste Quelle untersucht
