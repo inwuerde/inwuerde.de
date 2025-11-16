@@ -15,11 +15,16 @@ gegenüber potentiellen PartnerInnen offen zu legen.
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
 allowfullscreen data-scaling="true"></iframe>
 <style>
-iframe[data-scaling="true"] {
-  min-width: 100%;
-  max-width: 100%;
-  min-height: 100%;
-  max-height: 100%;
+    iframe[data-scaling="true"] {
+      height: 400px;
+      min-width: 100%;
+      max-width: 100%;
+    }
+  @media only screen and (max-width: 600px) {
+    iframe[data-scaling="true"] {
+      height: 250px;
+      max-width: 100%;
+    }
 }
 </style>
 
