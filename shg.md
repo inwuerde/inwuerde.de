@@ -9,19 +9,11 @@ Die Selbsthilfegruppe ist von ehemaligen TeilnehmerInnen des Seminars IWS gegrü
 
 Die Gruppe findet Mittwoch alle 14 Tage als Zoom-Meeting von 18 bis 20 Uhr statt. 
 
-Hier die Termine im 1. HJ 2024:
+Das nächste Treffen ist am 12.11.2025 von 18h-20h. Moderation von Angelika.
 
-- 24.Jan. 2024 06:00 PM
-- 7.Feb. 2024 06:00 PM
-- 21.Feb. 2024 06:00 PM
-- 6.März 2024 06:00 PM
-- 20.März 2024 06:00 PM
-- 3.Apr. 2024 06:00 PM
-- 17.Apr. 2024 06:00 PM
-- 1.Mai 2024 06:00 PM
-- 15.Mai 2024 06:00 PM
-- 29.Mai 2024 06:00 PM
-- 12.Juni 2024 06:00 PM
-- 26.Juni 2024 06:00 PM
+Für die Sitzungen Dezember, Januar und evtl. auch Februar müssen wir
+eine Lösung finden, da ich genau von 17h bis 21h verhindert sein werde.
+Wie wäre es, wenn für diese Sitzungen jemand von euch Moderator ist?
+Zoom-Account bei mir kann bleiben und genutzt werden.
 
 Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:shg.mittwoch@inwuerde.de?subject=IWS_SHG).
