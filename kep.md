@@ -5,13 +5,7 @@ title: KrisenErfahreneProfis
 
 ## Aktuelle Termine
 
-Die Termine für unsere Treffen via Zoom in 2024 sind:
-
-- 28.08.2024 18 bis 20 Uhr Neue Behandlungsansätze (DiGAs)
-- 26.09.2024 18 bis 20 Uhr Imposter Syndrom: Darf ich hier überhaupt arbeiten, wenn ich krank bin?
-- 28.10.2024 18 bis 20 Uhr Selbstoffenbarung betroffener Profis - Einblicke in die eigene Forschung & Diskussion
-- 26.11.2024 18 bis 20 Uhr Zwang in der Psychiatrie
-- 18.12.2024 18 bis 20 Uhr Ex-In
+findet ihr auf Instagram: <https://www.instagram.com/kep_krisenerfahrene_profis/>
 
 ## Über die Entstehungsgeschichte der Gruppe der __Kriseneerfahrenen Profis__
 
