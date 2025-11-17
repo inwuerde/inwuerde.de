@@ -1,6 +1,9 @@
 ---
 layout: layouts/default
 title: Datenschutz
+eleventyNavigation:
+  key: Datenschutz
+  parent: Home
 ---
 # Datenverarbeitung zur Übermittlung der Onlineinhalte
 

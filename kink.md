@@ -1,6 +1,10 @@
 ---
 layout: layouts/default
 title: In Würde zu sich stehen - Seminar zur Offenlegung einer kinky Identität
+eleventyNavigation:
+  key: KinkIWS
+  title: IWS bei Kink
+  parent: Home
 ---
 
 [Home](/) - [Meine Geschichte](#bio) - [IWS kink](/kink) - [Blog](/blog)

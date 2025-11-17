@@ -1,6 +1,9 @@
 ---
 layout: layouts/default
 title: Impressum
+eleventyNavigation:
+  key: Impressum
+  parent: Home
 ---
 
 # Kontakt

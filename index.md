@@ -1,9 +1,14 @@
 ---
 layout: layouts/default
 title: In Würde zu sich stehen
+eleventyNavigation:
+  key: Home
+  title: Home
 ---
 [Termine](#termine) - [Selbsthilfegruppe](/shg) - [Krisenerfahrene Profis KEP](/kep) - [Intervisionsgruppe](#intervision) - [Meine Geschichte](#bio) - [IWS kink](/kink) - [Blog](/blog
 )
+
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
 
 Das Seminar __In Würde zu sich stehen__ (IWS) ist ein Gruppenprogramm für Menschen mit 
 psychischen Erkrankungen, um sie bei Offenlegungsentscheidungen zu unterstützen.

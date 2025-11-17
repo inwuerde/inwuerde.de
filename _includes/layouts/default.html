@@ -1,4 +1,3 @@
-{% set assetHash = global.random() %}
 <!DOCTYPE html>
 <html lang="{{ site.locale }}">
   <head>
@@ -15,7 +14,7 @@
     <link
       rel="stylesheet"
       media="print"
-      href="/assets/fonts/fonts.css?{{ assetHash }}"
+      href="/assets/fonts/fonts.css"
       onload="this.media='all'"
     />
     <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
@@ -45,6 +44,8 @@ einer psychischen Erkrankung, dass sie bei ihrer Offenlegungsentscheidung unters
               <img src="/assets/images/logo-iws.png" width="620" alt="logo" />
             </div>
             {% endblock %}
+            {% set navPages = collections.all | eleventyNavigation %}
+            {{ navPages | dump | safe }}
           </div>
         </header>
         <section>{% block content %}{{ content | safe }}{% endblock %}</section>

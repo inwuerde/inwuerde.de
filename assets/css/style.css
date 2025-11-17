@@ -468,7 +468,6 @@ hr {
   padding-bottom: 1em;
   margin-top: 1em;
   line-height: 1px;
-  background: transparent url("../images/hr.png") 50% 0 no-repeat;
   border: none;
 }
 
@@ -583,7 +582,6 @@ footer {
   margin-top: 40px;
   font-size: 13px;
   color: #aaa;
-  background: transparent url("../images/hr.png") 0 0 no-repeat;
 }
 
 footer a {
@@ -632,3 +630,10 @@ footer a:hover {
 }
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+
+section ul li {
+  list-style-position: inside;
+  /* list-style: disc; */
+  /* padding-left: 20px; */
+  display: unset;
+}

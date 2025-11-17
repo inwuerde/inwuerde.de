@@ -1,6 +1,10 @@
 ---
 layout: layouts/kep
 title: KrisenErfahreneProfis
+eleventyNavigation:
+  key: KrisenErfahreneProfis
+  title: KEP
+  parent: Home
 ---
 
 ## Aktuelle Termine

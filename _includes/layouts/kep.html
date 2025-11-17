@@ -1,4 +1,3 @@
-{% set assetHash = global.random() %}
 <!DOCTYPE html>
 <html lang="{{ site.locale }}">
   <head>
@@ -13,8 +12,9 @@
     <title>{{ title }}</title>
     <link
       rel="stylesheet"
+      type="text/css"
       media="print"
-      href="/assets/fonts/fonts.css?{{ assetHash }}"
+      href="/assets/fonts/fonts.css"
       onload="this.media='all'"
     />
     <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
@@ -36,11 +36,15 @@
     <div id="container">
       <div class="inner">
         <header id="top">
-          <h1>{{ title }}</h1>
+          <h2>{{ title }}</h2>
           <div>
             {% block navigation %}
             <div>
               <img src="/assets/images/logo-iws.png" width="620" alt="logo" />
+            </div>
+            <div>
+              {% set navPages = collections.all | eleventyNavigation %}
+              {{ navPages | dump | safe }}
             </div>
             {% endblock %}
           </div>

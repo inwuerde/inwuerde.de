@@ -31,6 +31,7 @@ module.exports = function (eleventyConfig) {
       return dayjs(date).format(format);
     }
   );
+  console.log("################################# Config run");
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",

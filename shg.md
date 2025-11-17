@@ -1,7 +1,14 @@
 ---
 layout: layouts/default
 title: In Würde zu sich stehen - Selbsthilfegruppe
+eleventyNavigation:
+  key: SelbsthilfegruppeIWS
+  title: SHG
+  parent: Home
 ---
+
+{{ collections.all | eleventyNavigation | eleventyNavigationToHtml | safe }}
+
 
 Es gibt __seit dem 30.3.2022 eine Selbsthilfegruppe__ zum Thema "In Würde zu sich stehen".
 
