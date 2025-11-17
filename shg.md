@@ -14,6 +14,6 @@ Das nächste Treffen ist am 12.11.2025 von 18h-20h. Moderation von Angelika.
 Für die Sitzungen Dezember, Januar und evtl. auch Februar müssen wir
 eine Lösung finden, da ich genau von 17h bis 21h verhindert sein werde.
 Wie wäre es, wenn für diese Sitzungen jemand von euch Moderator ist?
-Zoom-Account bei mir kann bleiben und genutzt werden.
+Zoom-Account bei Anne kann bleiben und genutzt werden.
 
 Bei Interesse für die Zusendung der Zugangsdaten melden unter [Anmeldung](mailto:shg.mittwoch@inwuerde.de?subject=IWS_SHG).
