@@ -91,6 +91,44 @@ Aus diesen Erfahrungen heraus setze ich mich heute für die Überwindung des Sti
 
 Ich habe lange nicht verstanden, wir es zu meinen seelischen Erschütterungen gekommen ist. Jetzt weiss ich: die Grundwunde ist eine Verlassenheitswunde, die durch ein Trennungstrauma von meiner Mutter im Alter von 3 Monaten entstanden ist. Frühe Traumata, wie in meinem Falle ein Trennungs- und Verlassenheitstrauma, haben Auswirkungen in späteren Leben. Man nennt diese Diagnose __komplexe posttraumatische Belastungsstörung__. So komplex wie die Entstehung ist auch die Therapie. Ein Schicksal, das auch viele Adoptivkinder mit mir teilen.
 
+## Was ist „Therapeutic Lifestyle Changes“ (TLC)?
+
+„Therapeutic Lifestyle Changes“ (auf Deutsch: **Therapeutische Lebensstiländerungen**) ist ein evidenzbasierter Behandlungsansatz, der vor allem in der Psychiatrie und klinischen Psychologie verwendet wird. Er wurde besonders durch die Arbeitsgruppe von Dr. Stephen Ilardi (Universität Kansas) bekannt, der ihn erfolgreich bei der Behandlung von Depressionen einsetzt.
+
+TLC basiert auf der Idee, dass unser moderner Lebensstil in vielen Aspekten stark von dem abweicht, wie der Mensch evolutionär über Hunderttausende Jahre gelebt hat – und dass genau diese Abweichung ein wichtiger Risikofaktor für Depressionen und andere psychische Erkrankungen ist.
+
+Die **6 zentralen Bausteine** von Therapeutic Lifestyle Changes sind:
+
+1. **Bewegung / Sport**  
+   Mindestens 30–60 Minuten moderate bis intensive körperliche Aktivität an den meisten Tagen (am besten draußen). Bewegung ist einer der stärksten natürlichen Antidepressiva.
+
+2. **Sonnlicht / Tageslichtexposition**  
+   Täglich mindestens 20–30 Minuten helles Tageslicht (idealerweise morgens), um den circadianen Rhythmus und die Vitamin-D-Produktion zu regulieren.
+
+3. **Soziale Interaktion & Beziehungen**  
+   Regelmäßiger, echter zwischenmenschlicher Kontakt (nicht nur online). Einsamkeit ist ein massiver Risikofaktor für Depressionen.
+
+4. **Gesunder Schlaf**  
+   7–9 Stunden qualitativ hochwertiger Schlaf pro Nacht, regelmäßige Schlafzeiten, gute Schlafhygiene.
+
+5. **Omega-3-Fettsäuren**  
+   Ausreichende Zufuhr (vor allem EPA und DHA aus Fisch oder Algenöl). Studien zeigen antidepressive und entzündungshemmende Wirkung.
+
+6. **Gesunde Ernährung & Vermeidung entzündungsfördernder Nahrung**  
+   Mediterrane oder antientzündliche Ernährung, wenig Zucker und stark verarbeitete Lebensmittel.
+
+Zusätzlich werden oft noch ergänzende Elemente genannt:
+- Stressreduktion/Meditation/Achtsamkeit
+- Sinnstiftende Tätigkeiten und „Flow-Erlebnisse“
+- Kontakt zur Natur
+
+**Wirksamkeit**  
+Klinische Studien (u. a. von Ilardi) zeigen, dass TLC bei leichten bis mittelschweren Depressionen ähnlich wirksam oder sogar wirksamer sein kann als Medikamente oder Psychotherapie allein – und das bei praktisch keinen Nebenwirkungen.
+
+Viele Psychiater und Psychotherapeuten setzen TLC heute ergänzend oder sogar als erste Maßnahme ein, bevor Medikamente verschrieben werden.
+
+Kurz gesagt: Therapeutic Lifestyle Changes ist ein wissenschaftlich fundiertes Programm, das durch konsequente Rückkehr zu einem „evolutionär angepassten“ Lebensstil Depressionen und andere psychische Probleme behandeln und vorbeugen kann.
+
 [1]: https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions "in2gr8 research group"
 [2]: https://www.a-freizeiten.de/gruppen.html "12 Schritte Gruppen"
 [3]: https://koelnerverein.de "Kölner Verein für Rehabilitation e.V."
