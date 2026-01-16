@@ -13,7 +13,7 @@ Gleichzeitig entfaltet die Durchführung dieses Programmes eine hohe Wirksamkeit
 
 Das Programm [__In Würde zu sich stehen__][9] beruht auf Arbeiten von [Patrick W. Corrigan und Kolleg:innen][7] und wurde von [Nicolas Rüsch und Kolleg:innen (Univ.-Ulm)][8] ins Deutsche übertragen. Seine Wirksamkeit wurde wissenschaftlich nachgewiesen ([Buch: Das Stigma psychischer Erkrankung][10]).
 
-Wir trauern um unseren Freund und Kollegen Pat Corrigan, der am 11.1. 2026 viel zu früh verstorben ist. Rest in Pease!
+Wir trauern um unseren Freund und Kollegen Pat Corrigan, der am 11.01.2026 viel zu früh verstorben ist. Rest in Peace!
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
