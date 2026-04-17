@@ -17,7 +17,7 @@ Wir trauern um unseren Freund und Kollegen Pat Corrigan, der am 11.01.2026 viel 
 
 ## <a id="termine"></a>aktuelle Seminare [[^]](#top)
 
-- IWS-Online Seminar wird im April/Mai 2026 (4 Termine) jeweils 14 bis 16 Uhr via Zoom statt finden. Zur [Eintragung in die Interessentenliste](mailto:info@inwuerde.de?subject=SeminarApril26IWS).
+- IWS-Online Seminar wird im Herbst 2026 (4 Termine) jeweils 14 bis 16 Uhr via Zoom statt finden. Zur [Eintragung in die Interessentenliste](mailto:info@inwuerde.de?subject=SeminarHerbst26IWS).
 
 Das Seminar besteht aus insgesamt 4 Zoom-Gruppensitzungen a 2h (Nach 1 Stunde ist jeweils eine 10 minütige Pause), die im Wochenabstand durchgeführt werden. TeilnehmerInnen bekommen vor Seminarbeginn ein Seminarhandbuch als pdf zugesendet. Vor jedem Seminartermin sollten einzelne Arbeitsblätter aus dem Handbuch ausgedruckt für die Übungen vorliegen. Dies wird per Email rechtzeitig vor dem einzelnen Seminartermin bekannt gegeben. 
 
