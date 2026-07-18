@@ -1,2 +1,17 @@
 node_modules
 assets/**/readme.md
+app/src/
+app/public/
+app/node_modules/
+app/dist/index.html
+app/README.md
+app/info.md
+app/eslint.config.js
+app/components.json
+app/tailwind.config.js
+app/postcss.config.js
+app/tsconfig.app.json
+app/tsconfig.json
+app/tsconfig.node.json
+app/vite.config.ts
+app/index.html

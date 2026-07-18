@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Brand palette — derived from the IWS logo (red / warm grey hands) */
+    --background: 12 33% 98%;
+    --foreground: 0 12% 12%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 0 12% 12%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 0 12% 12%;
+
+    /* Logo red #FF0000 — deepened a touch for legible UI use */
+    --primary: 0 100% 44%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 6 18% 93%;
+    --secondary-foreground: 0 14% 18%;
+
+    --muted: 6 18% 94%;
+    --muted-foreground: 5 9% 42%;
+
+    --accent: 0 100% 96%;
+    --accent-foreground: 0 80% 36%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 5 15% 89%;
+    --input: 5 15% 86%;
+    --ring: 0 100% 44%;
+
+    --radius: 0.875rem;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  ::selection {
+    background: hsl(0 100% 44% / 0.16);
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: 'Sora', ui-sans-serif, system-ui, sans-serif;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  /* gentle float for the hands */
+  @keyframes floaty {
+    0%, 100% { transform: translateY(0) rotate(var(--rot, 0deg)); }
+    50% { transform: translateY(-14px) rotate(var(--rot, 0deg)); }
+  }
+  .animate-floaty {
+    animation: floaty var(--dur, 7s) ease-in-out var(--delay, 0s) infinite;
+  }
+  @keyframes rise-in {
+    from { opacity: 0; transform: translateY(28px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .animate-rise-in {
+    animation: rise-in 0.9s cubic-bezier(0.22, 1, 0.36, 1) both;
+  }
+  @keyframes marquee-x {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+  }
+  .animate-marquee {
+    animation: marquee-x 32s linear infinite;
+  }
+  /* dotted warm texture */
+  .bg-dots {
+    background-image: radial-gradient(hsl(5 9% 42% / 0.14) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+  .mask-fade-x {
+    -webkit-mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
+    mask-image: linear-gradient(to right, transparent, black 12%, black 88%, transparent);
+  }
+}
