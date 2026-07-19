@@ -1,4 +1,4 @@
-onst markdownIt = require("markdown-it");
+const markdownIt = require("markdown-it");
 const yaml = require("js-yaml");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const dayjs = require("dayjs");
