@@ -31,7 +31,7 @@ const CARDS = [
   {
     icon: Sparkles,
     title: 'IWS kink',
-    badge: 'Für 2026 geplant',
+    badge: 'Für 2027 geplant',
     text: 'Eine neue Form des Offenlegungsseminars für Menschen, die Schwierigkeiten haben und unter Selbst-Stigmatisierung leiden, ihre kinky-Identität gegenüber potenziellen Partner:innen offenzulegen.',
     cta: { label: 'Interesse anmelden', href: MAILTO.interessentenliste },
   },
