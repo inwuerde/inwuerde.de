@@ -1,6 +1,6 @@
 import { ArrowDown, CalendarDays, MailCheck } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { MAILTO, MARQUEE_WORDS } from '@/data/content';
+import { MARQUEE_WORDS } from '@/data/content';
 
 function Hand({
   src,
