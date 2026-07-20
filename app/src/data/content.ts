@@ -11,6 +11,8 @@ export const CONTACT = {
 };
 
 export const MAILTO = {
+  selbsthilfe:
+    'mailto:shg.mittwoch@inwuerde.de?subject=InteressentInSHG',
   interessentenliste:
     'mailto:info@inwuerde.de?subject=InteressentInIWS',
   seminarHerbst26:
