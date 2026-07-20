@@ -61,12 +61,12 @@ export const SOCIAL_MEDIA = [
   {
     date: '02.11.2021',
     text: 'Blogartikel über das Seminar IWS — „In Würde zu sich stehen – ein Seminar und eine Lebenseinstellung“',
-    href: 'https://sternenruferin.de/in-wuerde-zu-sich-stehen-ein-seminar-und-eine-lebenseinstellung/',
+    href: null,
   },
   {
     date: '06.07.2022',
     text: 'Diskussionsveranstaltung auf YouTube von never code alone mit Roland Golla, Susanne Neunes und Thomas Richter',
-    href: null,
+    href: "https://www.youtube.com/live/XpvQ7YD2kT4",
   },
 ];
 
