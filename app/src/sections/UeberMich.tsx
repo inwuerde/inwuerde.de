@@ -24,7 +24,7 @@ export function UeberMich() {
           dark
           eyebrow="Über mich"
           title="Thomas Richter — Diplom-Psychologe mit eigener Erfahrung"
-          lead="Ich bin 58 Jahre alt und kenne psychische Erkrankung von beiden Seiten: als Fachmann — und als Betroffener. Aus dieser Doppelperspektive setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein."
+          lead="Ich bin 62 Jahre alt und kenne psychische Erkrankung von beiden Seiten: als Fachmann — und als Betroffener. Aus dieser Doppelperspektive setze ich mich heute für die Überwindung des Stigmas psychischer Erkrankung ein."
         />
 
         <div className="mt-14 grid grid-cols-1 gap-10 lg:grid-cols-[1.15fr_0.85fr] lg:gap-14">
