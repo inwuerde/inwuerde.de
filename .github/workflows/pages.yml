@@ -1,35 +1,54 @@
 name: Build and Deploy
+
 on:
   push:
     branches:
-      - main  # ODER "master", je nach Standard Ihres Repos
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: "20.x"
-          cache: "npm"  # Speichert das node_modules-Verzeichnis zwischengespeichert
+          node-version: "24.x"
+          cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            app/package-lock.json
 
-      - name: Install Dependencies
-        run: npm ci  # Statt "npm install" für saubere Installation
+      - name: Install Eleventy dependencies
+        run: npm ci
 
-      - name: Build with Eleventy
+      - name: Install React app dependencies
+        working-directory: app
+        run: npm ci
+
+      - name: Build React app
+        working-directory: app
+        run: npm run build
+
+      - name: Build Eleventy website
         run: npx @11ty/eleventy --quiet
 
+      - name: Verify index.html
+        run: |
+          test -f _site/index.html
+          echo "index.html wurde erfolgreich erzeugt"
+          ls -la _site
+          ls -la _site/assets
+
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4  # Aktuellste Version verwenden
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site  # Standard-Output-Verzeichnis von Eleventy
-          publish_branch: gh-pages  # Zielt auf den GitHub-Pages-Branch
+          publish_dir: ./_site
+          publish_branch: gh-pages
