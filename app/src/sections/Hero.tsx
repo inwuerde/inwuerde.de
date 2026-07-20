@@ -91,7 +91,7 @@ export function Hero() {
               size="lg"
               className="rounded-full bg-brand-600 px-7 text-base font-semibold shadow-[0_16px_32px_-12px_rgba(224,0,0,0.55)] transition-all hover:-translate-y-0.5 hover:bg-brand-700"
             >
-              <a href={MAILTO.seminarHerbst26}>
+              <a href="#seminar_herbst">
                 <CalendarDays className="mr-2 h-5 w-5" />
                 Seminar Herbst 2026
               </a>
