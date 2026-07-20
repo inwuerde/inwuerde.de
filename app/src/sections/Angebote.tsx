@@ -19,7 +19,7 @@ const CARDS = [
     title: 'Selbsthilfegruppe IWS',
     badge: 'Alle 14 Tage · Zoom',
     text: 'Von ehemaligen Teilnehmer:innen des Seminars gegründet (seit 30.03.2022). Hier kann der im Seminar begonnene Weg fortgesetzt und vertieft werden — mittwochs alle 14 Tage, 18 bis 20 Uhr als Zoom-Meeting. Empfohlen wird die vorherige Teilnahme am Seminar IWS.',
-    cta: { label: 'Zugangsdaten anfragen', href: MAILTO.anfrage },
+    cta: { label: 'SHG anfragen', href: MAILTO.selbsthilfe },
   },
   {
     icon: Network,
