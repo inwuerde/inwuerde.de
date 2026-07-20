@@ -118,7 +118,7 @@ Diese Website nutzt den Dienst „Google Analytics“, welcher von der Google In
 Auf dieser Website greift die IP-Anonymisierung. Die IP-Adresse der Nutzer wird innerhalb der Mitgliedsstaaten der EU und des Europäischen Wirtschaftsraum gekürzt. Durch diese Kürzung entfällt der Personenbezug Ihrer IP-Adresse. Im Rahmen der Vereinbarung zur Auftragsdatenvereinbarung, welche die Websitebetreiber mit der Google Inc. geschlossen haben, erstellt diese mithilfe der gesammelten Informationen eine Auswertung der Websitenutzung und der Websiteaktivität und erbringt mit der Internetnutzung verbundene Dienstleistungen.
 Sie haben die Möglichkeit, die Speicherung des Cookies auf Ihrem Gerät zu verhindern, indem Sie in Ihrem Browser entsprechende Einstellungen vornehmen. Es ist nicht gewährleistet, dass Sie auf alle Funktionen dieser Website ohne Einschränkungen zugreifen können, wenn Ihr Browser keine Cookies zulässt.
 Weiterhin können Sie durch ein Browser-Plugin verhindern, dass die durch Cookies gesammelten Informationen (inklusive Ihrer IP-Adresse) an die Google Inc. gesendet und von der Google Inc. genutzt werden. 
-          Folgender Link führt Sie zu dem entsprechenden Plugin: <https://tools.google.com/dlpage/gaoptout?hl=de>
+          Folgender Link führt Sie zu dem entsprechenden Plugin: <a href="https://tools.google.com/dlpage/gaoptout?hl=de">tools.google.com gaoptout</a>
         </p>
         <p className="mt-6 text-sm text-warm-500">
           Der Text ist von Jan Schallaböck und lizenziert unter Creative Commons
