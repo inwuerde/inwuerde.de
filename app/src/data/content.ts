@@ -61,7 +61,7 @@ export const SOCIAL_MEDIA = [
   {
     date: '02.11.2021',
     text: 'Blogartikel über das Seminar IWS — „In Würde zu sich stehen – ein Seminar und eine Lebenseinstellung“',
-    href: null,
+    href: 'https://web.archive.org/web/20211125081454/https://sternenruferin.de/in-wuerde-zu-sich-stehen-ein-seminar-und-eine-lebenseinstellung/',
   },
   {
     date: '06.07.2022',
