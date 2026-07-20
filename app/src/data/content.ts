@@ -66,7 +66,7 @@ export const SOCIAL_MEDIA = [
   {
     date: '06.07.2022',
     text: 'Diskussionsveranstaltung auf YouTube über mentale Gesundheit in der IT mit Roland Golla, Susanne Neunes und Thomas Richter',
-    href: "https://www.youtube.com/live/XpvQ7YD2kT4?t=22",
+    href: 'https://www.youtube.com/live/XpvQ7YD2kT4?t=22',
   },
 ];
 
