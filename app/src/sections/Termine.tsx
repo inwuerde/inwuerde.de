@@ -16,7 +16,7 @@ export function Termine() {
           lead="Das nächste IWS-Online-Seminar startet im Herbst 2026. Tragen Sie sich unverbindlich in die Interessentenliste ein — wir informieren Sie über alle zukünftigen Termine."
         />
 
-        <div className="mt-12 grid grid-cols-1 gap-6 lg:grid-cols-3">
+        <div id="seminar_herbst" className="mt-12 grid grid-cols-1 gap-6 lg:grid-cols-3">
           {/* current seminar highlight */}
           <Reveal className="lg:col-span-2">
             <div className="group relative h-full overflow-hidden rounded-3xl bg-gradient-to-br from-brand-600 via-brand-600 to-brand-800 p-7 text-white shadow-[0_30px_60px_-30px_rgba(224,0,0,0.6)] sm:p-10">
