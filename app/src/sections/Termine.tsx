@@ -53,7 +53,7 @@ export function Termine() {
                   className="rounded-full bg-white px-6 font-semibold text-brand-700 shadow-lg transition-transform hover:-translate-y-0.5 hover:bg-brand-50"
                 >
                   <a href={MAILTO.seminarHerbst26}>
-                    Platz vormerken
+                    Jetzt Anmelden
                     <ArrowUpRight className="ml-1.5 h-4 w-4" />
                   </a>
                 </Button>
