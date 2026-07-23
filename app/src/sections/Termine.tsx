@@ -34,13 +34,13 @@ export function Termine() {
                 IWS-Online-Seminar · Herbst 2026
               </h3>
               <p className="mt-3 max-w-md text-[15px] leading-relaxed text-white/85">
-                4 Termine im Wochenabstand, jeweils 14 bis 16 Uhr via Zoom. Nach
+                4 Termine: 29.10., 5.11.,12.11. und 19.11., jeweils 14 bis 16 Uhr via Zoom. Nach
                 einer Stunde gibt es eine 10-minütige Pause. Das Seminarhandbuch
                 erhalten Sie vorab als PDF.
               </p>
               <div className="mt-6 flex flex-wrap gap-3 text-sm font-medium">
                 <span className="inline-flex items-center gap-2 rounded-full bg-white/12 px-4 py-2 backdrop-blur">
-                  <CalendarDays className="h-4 w-4" /> 4 Termine · Herbst 2026
+                  <CalendarDays className="h-4 w-4" /> 4 Termine · Okt. und Nov. 2026
                 </span>
                 <span className="inline-flex items-center gap-2 rounded-full bg-white/12 px-4 py-2 backdrop-blur">
                   <Clock className="h-4 w-4" /> 14–16 Uhr via Zoom
