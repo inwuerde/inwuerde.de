@@ -28,7 +28,7 @@ export function Termine() {
                 style={{ filter: 'brightness(0) invert(1)' }}
               />
               <Badge className="border-0 bg-white/15 text-[12px] font-semibold uppercase tracking-[0.16em] text-white backdrop-blur hover:bg-white/15">
-                Jetzt vormerken
+                Nur noch Warteliste!
               </Badge>
               <h3 className="mt-5 max-w-md font-display text-2xl font-extrabold leading-tight sm:text-[2rem]">
                 IWS-Online-Seminar · Herbst 2026
@@ -53,7 +53,7 @@ export function Termine() {
                   className="rounded-full bg-white px-6 font-semibold text-brand-700 shadow-lg transition-transform hover:-translate-y-0.5 hover:bg-brand-50"
                 >
                   <a href={MAILTO.seminarHerbst26}>
-                    Jetzt Anmelden
+                    Anmelden für Warteliste
                     <ArrowUpRight className="ml-1.5 h-4 w-4" />
                   </a>
                 </Button>
