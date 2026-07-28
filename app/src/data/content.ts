@@ -20,6 +20,7 @@ export const MAILTO = {
   intervision:
     'mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe',
   anfrage: 'mailto:info@inwuerde.de?subject=AnfrageIWS',
+  kink: 'mailto:info@inwuerde.de?subject=AnfrageKink',
 };
 
 export const NAV_LINKS = [
