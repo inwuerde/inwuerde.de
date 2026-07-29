@@ -7,10 +7,9 @@ export default function App() {
   return (<>
     <CookieConsentBanner />
     <Routes>
-       <Route path="/" element={<Home />} />
+      <Route path="/" element={<Home />} />
       <Route path="/impressum" element={<Impressum />} />
       <Route path="/datenschutz" element={<Datenschutz />} />
     </Routes>
-    </>
-  );
+    </>);
 }
