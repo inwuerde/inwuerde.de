@@ -148,7 +148,7 @@ export const BIO_MEMBERSHIPS = [
   { label: 'Selbsthilfe-Freizeitwerk e.V.', href: 'https://www.selbsthilfe-freizeitwerk.de' },
   { label: 'Forum Herrenalber Modell e.V.', href: 'https://forum-herrenalber-modell.de/' },
   { label: 'Kölner Verein für Rehabilitation e.V.', href: 'https://koelnerverein.de' },
-  { label: 'in2gr8 research group (seit November 2021)', href: 'https://web.archive.org/web/20210000000000*/https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions' },
+  { label: 'in2gr8 research group (seit November 2021)', href: 'https://web.archive.org/web/20211115124530/https://www.in2gr8mentalhealth.com/post/gathering-around-research-on-lived-experience-in-the-regulated-mental-health-professions' },
 ];
 
 export const BLOG_SERIES = {
