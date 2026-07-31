@@ -144,7 +144,7 @@ export const BIO_MILESTONES = [
 ];
 
 export const BIO_MEMBERSHIPS = [
-  { label: 'Betroffenenbeirat des Zentralinstituts für Seelische Gesundheit, Mannheim (seit 2021)', href: null },
+  { label: 'Betroffenenbeirat des Zentralinstituts für Seelische Gesundheit, Mannheim (2021-2024)', href: null },
   { label: 'Selbsthilfe-Freizeitwerk e.V.', href: 'https://www.selbsthilfe-freizeitwerk.de' },
   { label: 'Forum Herrenalber Modell e.V.', href: 'https://forum-herrenalber-modell.de/' },
   { label: 'Kölner Verein für Rehabilitation e.V.', href: 'https://koelnerverein.de' },
