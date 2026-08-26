@@ -12,3 +12,4 @@ zu erwecken. Das empowert mich. Hier 2 Beispiele, an denen ich gerade arbeite:
 
 * [Systemisches Brett](https://systemischesbrett.anmeldung-in-wuerde.workers.dev/) [github](https://github.com/inwuerde/SystemischesBrett)
 * [Online Version der Arbeitsblätter im IWS-Seminar](https://ab-iws.anmeldung-in-wuerde.workers.dev/) [github](https://github.com/inwuerde/AB-IWS)
+* [Die Komitee-App zur Unterstützung von Komiteegruppen](https://github.com/thomaskarlrichter/DieKomiteeApp)
