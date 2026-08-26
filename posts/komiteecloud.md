@@ -74,4 +74,7 @@ zur Medizin machen.
 
 [Machbarkeitsstudie (pdf)](/files/Machbarkeitsstudie_Zoom-Komiteegruppe.pdf)
 
+[Machbarkeitsstudie Präsentation](/files/Digital_Aftercare_Feasibility.pdf)
+
+
 ![Grafik digitales Komitee](/assets/images/Digitale_Genesungsgruppen_mit_Herz.png)
