@@ -72,4 +72,4 @@ Wir stehen am Anfang einer Entwicklung, in der Technologie nicht mehr die Ablenk
 gestalten, dass er nicht unsere Daten, sondern unsere Fähigkeit zur echten Begegnung schützt? Vielleicht ist die Antwort simpel: Indem wir die Technik zum Diener und den Menschen 
 zur Medizin machen.
 
-![Grafik digitales Komitee](assets/images/Digitale_Genesungsgruppen_mit_Herz.png)
+![Grafik digitales Komitee](/assets/images/Digitale_Genesungsgruppen_mit_Herz.png)
