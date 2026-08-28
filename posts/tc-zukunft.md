@@ -6,7 +6,7 @@ permalink: "/posts/tc-zukunft/"
 
 # Therapeutische Gemeinschaft als Modell mit Zukunft?
 
-Die Kernidee der therapeutischen gemeinschaft Gemeinschaft als Heilmittel trifft ziemlich genau den Kern der aktuellen psychischen Gesundheitskrise. Doch wie sieht die 
+Die Kernidee der Therapeutischen Gemeinschaft als Heilmittel trifft ziemlich genau den Kern der aktuellen psychischen Gesundheitskrise. Doch wie sieht die 
 Entwicklung wirklich aus?
 
 Kurz: Es gibt **keine große, flächendeckende Renaissance** klassischer therapeutischer Gemeinschaften (TC) in den letzten zwei Jahren. Das Modell lebt aber weiter, 
