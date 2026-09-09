@@ -74,3 +74,5 @@ Die erstmalige Begegnung mit Robbins’ Arbeit macht Gemeinsamkeiten spürbar: G
 ---
 
 Quellen unter anderem: De Leon und Unterrainer (2020), De Leon (2000), Vanderplasschen und Kollegen (2013), Best und Kollegen zum SIMOR (2016), Casriel und die Fachdarstellungen zum New Identity Process bzw. zur Bonding Psychotherapy, Walther H. Lechler (unter anderem So kann’s mit mir nicht weitergehn, Gesund ist, wer noch krank werden kann, Das Bad Herrenalber Modell mit Alfred Meier, Von mir aus nennt es Wahnsinn), Darstellungen des Bad Herrenalber Modells und Nachrufe mit Originalzitaten, Finkelstein, Wenegrat und Yalom (1982), Fisher und Kollegen (1989) sowie Grant (2001).
+
+_Text mit Hilfe von Grokbot verfasst_
