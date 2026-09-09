@@ -74,3 +74,5 @@ Was sich *lohnt* zu revitalisieren, sind die **TC-Prinzipien in skalierbarer For
 Kurz: TC ist kein Wundermodell gegen die Epidemie. Aber die Epidemie ist zu einem erheblichen Teil eine Gemeinschaftskrise – 
 und genau dafür wurde die therapeutische Gemeinschaft erfunden. Die relevanten Innovationen der letzten zwei Jahre heißen 
 weniger „zurück nach Henderson Hospital 1947“, sondern: Gemeinschaft, Beziehung und Alltag wieder als Behandlungsort ernst zu nehmen.
+
+_Text mit Hilfe von Grokbot verfasst_
