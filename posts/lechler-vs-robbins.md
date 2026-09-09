@@ -4,10 +4,6 @@ date: 2026-09-09 08:00:00
 permalink: "/posts/lechler-vs-robbins/"
 ---
 
-# Identitätswechsel in Therapeutischen Gemeinschaften, im New Identity Process und in Tony-Robbins-Seminaren
-
-Ein vergleichender Essay
-
 Die erstmalige Teilnahme an einem Tony-Robbins-Seminar hat in mir die Frage aufgeworfen, welche Gemeinsamkeiten und Unterschiede es im Veränderungsprozess von Identitäten zwischen Tonys Arbeit und der langfristigen Arbeit der Identitätsausprägung gibt — zum Beispiel im New Identity Process oder in der Arbeit von therapeutischen Gemeinschaften nach dem Phoenix-House-Modell. Deshalb habe ich diesen Essay geschrieben. Dabei rücken auch die Gedanken von Walther H. Lechler in den Blick, dem langjährigen Chefarzt der psychosomatischen Klinik Bad Herrenalb und Begründer des Bad Herrenalber Modells: Er hat Casriels New Identity Process nach Deutschland gebracht, in eine Lehr-Lern-Gemeinschaft eingebettet und Identitätsarbeit als Ausbildung für das Leben verstanden — nicht als Event und nicht als bloße Anwendung.
 
 Identitätswechsel ist in diesen Welten ein sozio-affektives Projekt: Menschen sollen anders werden, nicht nur anders handeln. Gerade deshalb ist der Vergleich verführerisch und riskant zugleich. Therapeutische Gemeinschaften im Sinne des Phoenix-House-Modells, der New Identity Process von Daniel Casriel, Lechlers Herrenalber Lebensschule und die Großseminare von Tony Robbins arbeiten mit intensiver Gruppendynamik, mit emotionaler Zuspitzung und mit Narrativen vom Vorher und Nachher. Wer nur auf diese Oberflächen schaut, sieht Verwandtschaft. Wer genauer hinsieht, erkennt unterschiedliche Aufträge, Zeitstrukturen, Autoritätsverhältnisse und Evidenzlagen. Parallelität der Mittel bedeutet keine therapeutische Äquivalenz.
@@ -51,6 +47,9 @@ Alle diese Welten nutzen Gruppe, Emotion und ein Narrativ der Neugeburt. Im Phoe
 ## Autorität, Community und Exit
 
 Im Phoenix-House-Modell stammt Autorität aus einer Hierarchie von Peers und Staff; Drop-out ist klinisch bedeutsam. Casriels Gruppenleitung leitet Nähe und Emotion an und zielt auf Autonomie außerhalb der Sitzung. Lechler wollte das Arzt-Patienten-Gefälle bewusst einebnen und sprach von Gästen und Lernenden — und blieb doch, als charismatischer Chefarzt und Gründerfigur, selbst eine starke Autorität der Gemeinschaft. Das Bad Herrenalber Modell ist ohne seine Person und ohne die Verbindlichkeit der Klinikregeln kaum zu denken; Kritik hat später Radikalität, Konfrontationsdichte und Evidenzlücken benannt. Robbins konzentriert Autorität auf den Trainer und den Volunteer-Apparat; Exit heißt oft Nicht-Wiederkommen plus Sales-Follow-up. Die Spannung zwischen Lechlers „Mitmensch als Medizin“ und Robbins’ Bühnencharisma ist für die Frage nach Identitätswechsel zentral: Beide mobilisieren Hoffnung durch starke Persönlichkeit — nur einer bindet sie an eine stationäre Lehr-Lern-Gemeinschaft und an Selbsthilfe jenseits des Events.
+
+![Selbsthilfegruppen in der Bad Herrenalber Klinik](/assets/images/BHMWochenplan.jpeg)
+
 
 ## Was hält — und was vergeht
 
