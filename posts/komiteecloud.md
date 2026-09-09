@@ -72,6 +72,8 @@ Wir stehen am Anfang einer Entwicklung, in der Technologie nicht mehr die Ablenk
 gestalten, dass er nicht unsere Daten, sondern unsere Fähigkeit zur echten Begegnung schützt? Vielleicht ist die Antwort simpel: Indem wir die Technik zum Diener und den Menschen 
 zur Medizin machen.
 
+_Text mit Hilfe von Grokbot verfasst_
+
 [Machbarkeitsstudie (pdf)](/files/Machbarkeitsstudie_Zoom-Komiteegruppe.pdf)
 
 [Machbarkeitsstudie Präsentation](/files/Digital_Aftercare_Feasibility.pdf)
