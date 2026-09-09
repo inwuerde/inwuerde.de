@@ -48,7 +48,7 @@ Alle diese Welten nutzen Gruppe, Emotion und ein Narrativ der Neugeburt. Im Phoe
 
 Im Phoenix-House-Modell stammt Autorität aus einer Hierarchie von Peers und Staff; Drop-out ist klinisch bedeutsam. Casriels Gruppenleitung leitet Nähe und Emotion an und zielt auf Autonomie außerhalb der Sitzung. Lechler wollte das Arzt-Patienten-Gefälle bewusst einebnen und sprach von Gästen und Lernenden — und blieb doch, als charismatischer Chefarzt und Gründerfigur, selbst eine starke Autorität der Gemeinschaft. Das Bad Herrenalber Modell ist ohne seine Person und ohne die Verbindlichkeit der Klinikregeln kaum zu denken; Kritik hat später Radikalität, Konfrontationsdichte und Evidenzlücken benannt. Robbins konzentriert Autorität auf den Trainer und den Volunteer-Apparat; Exit heißt oft Nicht-Wiederkommen plus Sales-Follow-up. Die Spannung zwischen Lechlers „Mitmensch als Medizin“ und Robbins’ Bühnencharisma ist für die Frage nach Identitätswechsel zentral: Beide mobilisieren Hoffnung durch starke Persönlichkeit — nur einer bindet sie an eine stationäre Lehr-Lern-Gemeinschaft und an Selbsthilfe jenseits des Events.
 
-![Selbsthilfegruppen in der Bad Herrenalber Klinik](/assets/images/BHMWochenplan.jpeg)
+![Selbsthilfegruppen in der Bad Herrenalber Klinik](/assets/images/Tafel-12schrittegruppen-bh.png)
 
 
 ## Was hält — und was vergeht
