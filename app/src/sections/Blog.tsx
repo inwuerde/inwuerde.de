@@ -13,6 +13,16 @@ export function Blog() {
           lead="In einer fünfteiligen Serie beschreibe ich meinen persönlichen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Hier finden Sie den Auftakt der Serie und meine aktuellen Beiträge."
         />
 
+        <p className="mt-4">
+          <a
+            href="/blog/"
+            className="inline-flex items-center gap-1.5 font-semibold text-brand-600 underline decoration-brand-300 underline-offset-4 transition-colors hover:text-brand-700"
+          >
+            Alle Beiträge im Blog-Index
+            <ArrowUpRight className="h-4 w-4" />
+          </a>
+        </p>
+
         <Reveal delay={0.08}>
           <div className="mt-12 overflow-hidden rounded-3xl border border-warm-200 bg-white shadow-[0_24px_50px_-35px_rgba(58,44,44,0.5)]">
             <div className="grid grid-cols-1 lg:grid-cols-[0.9fr_1.1fr]">
