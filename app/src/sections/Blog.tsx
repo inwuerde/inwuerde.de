@@ -10,7 +10,7 @@ export function Blog() {
         <SectionHeading
           eyebrow="Blog"
           title="Persönliche Einblicke & Erfahrungsberichte"
-          lead="In einer fünfteiligen Serie beschreibe ich meinen persönlichen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells."
+          lead="In einer fünfteiligen Serie beschreibe ich meinen persönlichen Genesungsweg und meine Erfahrungen mit Kliniken des Bad Herrenalber Modells. Hier finden Sie den Auftakt der Serie und meine aktuellen Beiträge."
         />
 
         <Reveal delay={0.08}>
@@ -34,11 +34,23 @@ export function Blog() {
                     Eine ehrliche Serie über Krisen, Klinikaufenthalte und den Weg
                     zurück ins Leben — veröffentlicht am 28.08.2022.
                   </p>
+                  <p className="mt-3 max-w-sm text-[15px] leading-relaxed text-warm-300">
+                    Was die Therapeutische Gemeinschaft als Methode ausmacht, hat
+                    George De Leon wie kaum ein anderer erforscht. Zu seinem Tod
+                    habe ich einen{' '}
+                    <a
+                      href="/posts/george-de-leon/"
+                      className="font-semibold text-white underline decoration-brand-400 underline-offset-4 transition-colors hover:text-brand-300"
+                    >
+                      Nachruf
+                    </a>{' '}
+                    geschrieben.
+                  </p>
                 </div>
               </div>
               <ul className="divide-y divide-warm-100">
                 {BLOG_SERIES.parts.map((p, i) => (
-                  <li key={p.part}>
+                  <li key={p.href}>
                     <a
                       href={p.href}
                       target="_blank"
@@ -50,7 +62,7 @@ export function Blog() {
                       </span>
                       <div className="flex-1">
                         <div className="text-[15px] font-semibold text-warm-900">
-                          Genesungsweg &amp; Bad Herrenalber Modell — {p.part}
+                          {p.label}
                         </div>
                         <div className="mt-0.5 flex items-center gap-1.5 text-[13px] text-warm-500">
                           <CalendarDays className="h-3.5 w-3.5" />

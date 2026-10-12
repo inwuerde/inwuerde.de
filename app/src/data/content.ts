@@ -154,11 +154,11 @@ export const BIO_MEMBERSHIPS = [
 export const BLOG_SERIES = {
   title: 'Mein persönlicher Genesungsweg und das Bad Herrenalber Modell',
   parts: [
-    { part: 'Teil 1', date: '28.08.2022', href: '/posts/bhm-teil-1/' },
-    { part: 'Teil 2', date: '28.08.2022', href: '/posts/bhm-teil-2/' },
-    { part: 'Teil 3', date: '28.08.2022', href: '/posts/bhm-teil-3/' },
-    { part: 'Teil 4', date: '28.08.2022', href: '/posts/bhm-teil-4/' },
-    { part: 'Teil 5', date: '28.08.2022', href: '/posts/bhm-teil-5/' },
+    { label: 'Genesungsweg & Bad Herrenalber Modell, Teil 1', date: '28.08.2022', href: '/posts/bhm-teil-1/' },
+    { label: 'Gemeinschaft als Methode: Zum Tod von George De Leon', date: '12.10.2026', href: '/posts/george-de-leon/' },
+    { label: 'Identitätswechsel in Therapeutischen Gemeinschaften, im New Identity Process und in Tony-Robbins-Seminaren', date: '09.09.2026', href: '/posts/lechler-vs-robbins/' },
+    { label: 'Therapeutische Gemeinschaft als Modell mit Zukunft?', date: '28.08.2026', href: '/posts/tc-zukunft/' },
+    { label: 'Machbarkeitsstudie einer Komitee-Cloud', date: '27.08.2026', href: '/posts/komitee_cloud/' },
   ],
 };
 
