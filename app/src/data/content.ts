@@ -155,6 +155,7 @@ export const BLOG_SERIES = {
   title: 'Mein persönlicher Genesungsweg und das Bad Herrenalber Modell',
   parts: [
     { label: 'Genesungsweg & Bad Herrenalber Modell, Teil 1', date: '28.08.2022', href: '/posts/bhm-teil-1/' },
+    { label: 'Recovery Capital als integratives Rahmenwerk', date: '31.10.2026', href: '/posts/recovery-capital/' },
     { label: 'Gemeinschaft als Methode: Zum Tod von George De Leon', date: '12.10.2026', href: '/posts/george-de-leon/' },
     { label: 'Identitätswechsel in Therapeutischen Gemeinschaften, im New Identity Process und in Tony-Robbins-Seminaren', date: '09.09.2026', href: '/posts/lechler-vs-robbins/' },
     { label: 'Therapeutische Gemeinschaft als Modell mit Zukunft?', date: '28.08.2026', href: '/posts/tc-zukunft/' },
