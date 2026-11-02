@@ -55,6 +55,8 @@ Deine Handlungsfähigkeit ist am größten – und die Bedrohung auch. Etwa wenn
 **Akt 5 – Resolution: Integrierte Resilienz.**
 Die Recovery-Identität bleibt stabil, ohne neue Verengung. Das Tempo beruhigt sich auf ein nachhaltiges Maß aktiver Lebensgestaltung.
 
+![Infografik „Dramaturgie der Genesung: Recovery Capital vs. 4th-Turning-Antagonist“: von Phase 1 mit niedrigem Capital und akuter Bedrohung über maximales Capital im Höhepunkt bis zum stabilisierten Plateau integrierter Resilienz, dazu die Entfaltung des Recovery Capital und die Skalierung des Antagonisten](/assets/images/dramaturgie-infografik.jpg)
+
 ## Die Tempo-Kurve
 
 Wenn du den Weg als Kurve zeichnest, sieht er etwa so aus:
