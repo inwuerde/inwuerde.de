@@ -3,6 +3,7 @@ title: Identitätswechsel in Therapeutischen Gemeinschaften, im New Identity Pro
 date: 2026-09-09 08:00:00
 permalink: "/posts/lechler-vs-robbins/"
 ---
+# Identitätswechsel in Therapeutischen Gemeinschaften, im New Identity Process und in Tony-Robbins-Seminaren
 
 Die erstmalige Teilnahme an einem Tony-Robbins-Seminar hat in mir die Frage aufgeworfen, welche Gemeinsamkeiten und Unterschiede es im Veränderungsprozess von Identitäten zwischen Tonys Arbeit und der langfristigen Arbeit der Identitätsausprägung gibt — zum Beispiel im New Identity Process oder in der Arbeit von therapeutischen Gemeinschaften nach dem Phoenix-House-Modell. Deshalb habe ich diesen Essay geschrieben. Dabei rücken auch die Gedanken von Walther H. Lechler in den Blick, dem langjährigen Chefarzt der psychosomatischen Klinik Bad Herrenalb und Begründer des Bad Herrenalber Modells: Er hat Casriels New Identity Process nach Deutschland gebracht, in eine Lehr-Lern-Gemeinschaft eingebettet und Identitätsarbeit als Ausbildung für das Leben verstanden — nicht als Event und nicht als bloße Anwendung.
 
