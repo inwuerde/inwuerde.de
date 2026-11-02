@@ -1,0 +1,68 @@
+{% set assetHash = global.random() %}
+<!DOCTYPE html>
+<html lang="{{ site.locale }}">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XR6J4J6ZRF"></script>
+    <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+
+       gtag('config', 'G-XR6J4J6ZRF');
+    </script>
+    <meta charset="utf-8" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta name="generator" content="{{ eleventy.generator }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="lightning" content="inwuerde@getalby.com" />
+    <style>
+      {% include 'css/critical.css' %}
+    </style>
+    <title>{{ title }}</title>
+    <link
+      rel="stylesheet"
+      media="print"
+      href="/assets/fonts/fonts.css?{{ assetHash }}"
+      onload="this.media='all'"
+    />
+    <link rel="icon" type="image/ico" href="/assets/images/favicon.ico" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' }}" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="{{ '/assets/css/print.css' }}"
+      media="print"
+    />
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta property="og:image" content="https://inwuerde.de/assets/images/logo-iws.pn"/>
+    <meta property="og:title" content="Blog von Thomas Richter"/>
+    <meta property="og:description" content="Hier finden Sie aktuelle Blogartikel von Thomas Richter rum um Recovery, 12 Schritte Gruppen, Anti-Stigma-Arbeit, Recovery Capital und die Rolle von Bitcoin in der Genesung."/>
+  </head>
+  <body>
+    <div id="container">
+      <div class="inner">
+        <header id="top">
+          <h1>Blog</h1>
+          <div>
+            {% block navigation %}
+            <div>
+              <img src="/assets/images/logo-iws.png" width="620" alt="logo" />
+            </div>
+            {% endblock %}
+          </div>
+        </header>
+        <section>{% block content %}{{ content | safe }}{% endblock %}</section>
+        <footer>
+          <a href="/">Home</a> | <a href="/datenschutz">Datenschutz</a> |
+          <a href="/impressum">Impressum</a> | <a href="/blog">Blog</a> |
+          <span>&copy; {% year %}</span> |
+          <span><a href="https://blog.getalby.com/alby-bringing-bitcoin-to-the-web/"><img width="80" height="36" src="/assets/images/donate-with-white.png"/></a></span>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>
