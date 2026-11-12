@@ -38,9 +38,19 @@
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <meta property="og:image" content="https://inwuerde.de/assets/images/logo-iws.pn"/>
-    <meta property="og:title" content="Blog von Thomas Richter"/>
-    <meta property="og:description" content="Hier finden Sie aktuelle Blogartikel von Thomas Richter rum um Recovery, 12 Schritte Gruppen, Anti-Stigma-Arbeit, Recovery Capital und die Rolle von Bitcoin in der Genesung."/>
+    {% set ogImageUrl = content | firstPostImage(image, page.url) %}
+    {% set ogDescriptionText = content | ogDescription(description) %}
+    <link rel="canonical" href="{{ page.url | absoluteUrl | escapeAttr | safe }}" />
+    <meta name="description" content="{{ ogDescriptionText | escapeAttr | safe }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="{{ title | escapeAttr | safe }}" />
+    <meta property="og:description" content="{{ ogDescriptionText | escapeAttr | safe }}" />
+    <meta property="og:url" content="{{ page.url | absoluteUrl | escapeAttr | safe }}" />
+    <meta property="og:image" content="{{ ogImageUrl | escapeAttr | safe }}" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ title | escapeAttr | safe }}" />
+    <meta name="twitter:description" content="{{ ogDescriptionText | escapeAttr | safe }}" />
+    <meta name="twitter:image" content="{{ ogImageUrl | escapeAttr | safe }}" />
   </head>
   <body>
     <div id="container">

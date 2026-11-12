@@ -2,6 +2,7 @@ const markdownIt = require("markdown-it");
 const yaml = require("js-yaml");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const dayjs = require("dayjs");
+const socialmeta = require("./filters/socialmeta");
 
 module.exports = function (eleventyConfig) {
   let options = {
@@ -34,6 +35,10 @@ module.exports = function (eleventyConfig) {
       return dayjs(date).format(format);
     }
   );
+  eleventyConfig.addFilter("firstPostImage", socialmeta.firstPostImage);
+  eleventyConfig.addFilter("ogDescription", socialmeta.ogDescription);
+  eleventyConfig.addFilter("absoluteUrl", socialmeta.absoluteUrl);
+  eleventyConfig.addFilter("escapeAttr", socialmeta.escapeAttr);
   return {
     markdownTemplateEngine: "njk",
     dataTemplateEngine: "njk",
