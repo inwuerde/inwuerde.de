@@ -12,6 +12,9 @@ Wir sind keine unitären Wesen. Wir sind Kollektive. Das gilt biologisch für un
 
 ## Alle Intelligenz ist kollektiv – Michael Levins Multi-Scale-Architektur
 
+![Michael Levins kollektive Intelligenz: Multi-Scale-Competency-Architektur, Cognitive Glue und Cognitive Light Cone](/assets/images/ki-levin.jpg)
+
+
 Michael Levin (Tufts University) hat eine radikale These: **Alle Intelligenz ist kollektive Intelligenz.** Ein Organismus ist keine monolitische Einheit, sondern eine Multi-Scale-Competency-Architektur. Zellen, die evolutionsgeschichtlich eigenständige Agenten waren, schließen sich zu Geweben zusammen. Gewebe bilden Organe. Organe bilden Körper. Jede Ebene löst Probleme in ihrem eigenen Raum:
 
 - Zellen navigieren in metabolischen und physiologischen Räumen,
@@ -23,6 +26,9 @@ Entscheidend ist dabei die „Cognitive Glue“: Bioelektrische Netzwerke, die Z
 Levin nennt das den **Cognitive Light Cone**: die raum-zeitliche Skala der Ziele, die ein Agent verfolgen kann. Größere, besser verbundene Kollektive haben größere Kegel. Krebs lässt sich in diesem Rahmen als „gebrochenes Kollektiv“ verstehen – Zellen, die dem höheren Ziel entkommen und wieder zu unabhängigen Agenten werden.
 
 ## Zellen als Agenten, Kollektive als selbstorganisierende Software – Joscha Bach
+
+![Joscha Bach: kollektive Intelligenz und Multi-Agenten-Systeme](/assets/images/ki-bach.jpg)
+
 
 Joscha Bach ergänzt diese Sicht aus der Perspektive der kognitiven Architektur und der KI. Für ihn ist jede Zelle im Prinzip ein Reinforcement-Learning-Agent: Sie empfängt Signale, lernt Bedingungen, maximiert Belohnungen und minimiert Überraschungen. Neuronen sind spezialisierte „Telegrafenzellen“, die diese Kommunikation über große Entfernungen ermöglichen.
 
