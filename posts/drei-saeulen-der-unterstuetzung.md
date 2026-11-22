@@ -1,6 +1,6 @@
 ---
 title: "Drei Säulen der Unterstützung: Einzeltherapie, Peer-Arbeit und Therapeutische Gemeinschaften"
-date: 2026-11-22 10:30:00
+date: 2026-11-22 11:30:00
 permalink: "/posts/drei-saeulen-der-unterstuetzung/"
 ---
 
