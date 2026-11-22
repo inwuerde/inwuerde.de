@@ -8,6 +8,8 @@ permalink: "/posts/architektur-der-zugehoerigkeit/"
 
 *Die Therapeutische Gemeinschaft als mein Kompass und Zukunftsmodell für die Recovery*
 
+![Menschen verschiedenen Alters sitzen in einem hellen Raum mit Holzdielen im Stuhlkreis zusammen und hören einander aufmerksam zu](/assets/images/architektur-stuhlkreis.jpg)
+
 Von den ersten theoretischen Prägungen in den Hörsälen der Psychologie in der DDR über die strukturierte Welt der Softwareentwicklung bis hin zur tiefen Selbsterforschung in den Kreisen der 12-Schritte-Programme zieht sich ein klarer roter Faden durch meinen Weg: Die tiefe Erkenntnis, dass echte Heilung niemals im Vakuum stattfindet. Das Herzstück dieser Erkenntnis und der Dreh- und Angelpunkt meiner Texte auf *In Würde zu sich stehen* ist die Therapeutische Gemeinschaft (TC). Sie ist für mich weit mehr als ein historisches Klinikkonzept – sie ist Lebenshaltung, Rettungsanker und zugleich der visionärste architektonische Entwurf für die Psychiatrie der Zukunft.
 
 ## Der Bruch als Katalysator: Die TC als mein Lehrmeister
