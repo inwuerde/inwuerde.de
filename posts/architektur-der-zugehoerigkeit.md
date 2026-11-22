@@ -30,6 +30,8 @@ Das eigentliche visionäre Potenzial meiner Arbeit sehe ich jedoch in der mutige
 
 Doch die *Prinzipien* der Therapeutischen Gemeinschaft lassen sich extrahieren, modernisieren und dezentralisieren. Genau hier verschmelzen der Psychologe und der IT-Entwickler in mir aufs Engste. Wenn man kollektive Intelligenz – von biologischen Zellverbänden bis zu modernen Softwarearchitekturen – begreift, lässt sich auch Gemeinschaft neu programmieren. Meine Überlegungen zu einer „Komitee-Cloud“, zur Integration datenschutzfreundlicher Krypto-Ansätze wie dem Fediverse oder der Entwurf einer *Decentralized Autonomous Organization* (DAO) für eine psychosomatische Klinik zeigen plastisch, wie Zugehörigkeit zukunftssicher organisiert werden kann.
 
+![Infografik „Die Architektur der Zugehörigkeit: Die Therapeutische Gemeinschaft als Zukunftsmodell“: von der Krise isolierter Ansätze und Einsamkeit über die Synthese aus Code und Community mit Krypto-Ansätzen, Fediverse und DAOs bis zur demokratisierten Recovery im Alltag mit Social Prescribing, Co-Housing und dezentralen Peer-Spaces](/assets/images/architektur-infografik.jpg)
+
 ## Fazit: Der Kompass für die Zukunft
 
 Die Zukunft der Recovery erfordert demnach nicht die unkritische Rückkehr zu den hierarchischen Modellen der Vergangenheit, sondern die Demokratisierung ihrer besten Werkzeuge. Social Prescribing, Co-Housing, dezentrale Peer-Spaces und netzwerkartige Organisationsformen, die echte Verbindlichkeit schaffen, sind für mich die Therapeutischen Gemeinschaften von morgen.
