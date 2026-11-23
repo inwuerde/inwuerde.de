@@ -213,3 +213,7 @@ Enthält unter anderem:
 * Ablaufpläne für den dreitägigen LLE-Selbsterfahrungs-Workshop.
 * Ein Framework mit 13 Kernkompetenzen für TC-Praktiker, bei dem nicht das dogmatische Befolgen eines Manuals im Vordergrund steht, sondern eine entwicklungsorientierte innere Haltung.
 * Einen Fragebogen zur Einschätzung des Schweregrads von Persönlichkeitsstörungen.
+
+---
+
+[Umfangreiche Zusammenfassung des Buches (182 Seiten pdf)](/assets/files/haigh-pearce-zusammenfassung.pdf)
