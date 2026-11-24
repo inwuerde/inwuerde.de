@@ -20,6 +20,10 @@ export function Header() {
 
   const go = (href: string) => {
     setOpen(false);
+    if (!href.startsWith('#')) {
+      window.location.href = href;
+      return;
+    }
     if (location.pathname !== '/') {
       navigate('/' + href);
     } else {

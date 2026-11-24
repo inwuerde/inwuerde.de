@@ -29,7 +29,7 @@ export const NAV_LINKS = [
   { label: 'Angebote', href: '#angebote' },
   { label: 'Über mich', href: '#ueber-mich' },
   { label: 'TLC', href: '#tlc' },
-  { label: 'Blog', href: '#blog' },
+  { label: 'Blog', href: 'https://inwuerde.de/blog/' },
 ];
 
 export const PAST_SEMINARS = [
