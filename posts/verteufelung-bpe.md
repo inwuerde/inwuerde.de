@@ -8,6 +8,8 @@ permalink: "/posts/verteufelung-bpe/"
 
 Warum sehen wir manche Menschen als „reine Böse“ – und was steckt psychologisch dahinter?
 
+![Belief in Pure Evil – Symbolbild: ein Gesicht, halb Mensch, halb Dämon](/assets/images/bpe-illustration.jpg)
+
 Verteufelung (demonization) ist die Tendenz, andere als Verkörperungen reinen Bösen zu betrachten. In der Sozialpsychologie wird dies als extreme Form der Entmenschlichung untersucht. Die Forschung zeigt, dass sowohl situative Faktoren als auch individuelle Überzeugungen eine zentrale Rolle spielen.
 
 ## Prototypische Bösartigkeit und kognitive Belastung
