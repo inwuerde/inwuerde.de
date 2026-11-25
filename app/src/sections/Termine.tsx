@@ -13,7 +13,7 @@ export function Termine() {
         <SectionHeading
           eyebrow="Termine"
           title="Aktuelle Seminare & Vorträge"
-          lead="Das nächste IWS-Online-Seminar startet im Herbst 2026. Tragen Sie sich unverbindlich in die Interessentenliste ein — wir informieren Sie über alle zukünftigen Termine."
+          lead="Das nächste IWS-Online-Seminar startet am 25. Mai 2027. Tragen Sie sich unverbindlich in die Interessentenliste ein — wir informieren Sie über alle zukünftigen Termine."
         />
 
         <div id="seminar_herbst" className="mt-12 grid grid-cols-1 gap-6 lg:grid-cols-3">
@@ -28,19 +28,19 @@ export function Termine() {
                 style={{ filter: 'brightness(0) invert(1)' }}
               />
               <Badge className="border-0 bg-white/15 text-[12px] font-semibold uppercase tracking-[0.16em] text-white backdrop-blur hover:bg-white/15">
-                Nur noch Warteliste!
+                Jetzt anmelden!
               </Badge>
               <h3 className="mt-5 max-w-md font-display text-2xl font-extrabold leading-tight sm:text-[2rem]">
-                IWS-Online-Seminar · Herbst 2026
+                IWS-Online-Seminar · Mai/Juni 2027
               </h3>
               <p className="mt-3 max-w-md text-[15px] leading-relaxed text-white/85">
-                4 Termine: 29.10., 5.11.,12.11. und 19.11., jeweils 14 bis 16 Uhr via Zoom. Nach
+                4 Termine: 25.5., 1.6., 8.6. und 15.6.2027, jeweils 14 bis 16 Uhr via Zoom. Nach
                 einer Stunde gibt es eine 10-minütige Pause. Das Seminarhandbuch
                 erhalten Sie vorab als PDF.
               </p>
               <div className="mt-6 flex flex-wrap gap-3 text-sm font-medium">
                 <span className="inline-flex items-center gap-2 rounded-full bg-white/12 px-4 py-2 backdrop-blur">
-                  <CalendarDays className="h-4 w-4" /> 4 Termine · Okt. und Nov. 2026
+                  <CalendarDays className="h-4 w-4" /> 4 Termine · Mai und Juni 2027
                 </span>
                 <span className="inline-flex items-center gap-2 rounded-full bg-white/12 px-4 py-2 backdrop-blur">
                   <Clock className="h-4 w-4" /> 14–16 Uhr via Zoom
@@ -52,8 +52,8 @@ export function Termine() {
                   size="lg"
                   className="rounded-full bg-white px-6 font-semibold text-brand-700 shadow-lg transition-transform hover:-translate-y-0.5 hover:bg-brand-50"
                 >
-                  <a href={MAILTO.seminarHerbst26}>
-                    Anmelden für Warteliste
+                  <a href={MAILTO.seminarSommer27}>
+                    Anmeldung
                     <ArrowUpRight className="ml-1.5 h-4 w-4" />
                   </a>
                 </Button>
@@ -105,10 +105,10 @@ export function Termine() {
         <Reveal delay={0.05} className="mt-16">
           <div className="flex items-end justify-between gap-4">
             <h3 className="font-display text-xl font-bold text-warm-950 sm:text-2xl">
-              16 vergangene Seminare
+              17 vergangene Seminare
             </h3>
             <span className="hidden text-sm font-medium text-warm-400 sm:block">
-              2019 — 2025 · Präsenz &amp; Zoom
+              2019 — 2026 · Präsenz &amp; Zoom
             </span>
           </div>
         </Reveal>

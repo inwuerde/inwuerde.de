@@ -4,7 +4,7 @@ import { Reveal } from '@/components/Reveal';
 import { Card, CardContent } from '@/components/ui/card';
 
 const STATS = [
-  { value: '16+', label: 'durchgeführte Seminare' },
+  { value: '17+', label: 'durchgeführte Seminare' },
   { value: '4 × 2h', label: 'Zoom-Gruppensitzungen' },
   { value: '2019', label: 'seitdem kontinuierlich aktiv' },
   { value: 'V4V', label: 'Value4Value — Spendenbasis' },

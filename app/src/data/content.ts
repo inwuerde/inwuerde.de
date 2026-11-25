@@ -17,6 +17,8 @@ export const MAILTO = {
     'mailto:info@inwuerde.de?subject=InteressentInIWS',
   seminarHerbst26:
     'mailto:info@inwuerde.de?subject=SeminarHerbst26IWS',
+  seminarSommer27:
+    'mailto:info@inwuerde.de?subject=SeminarSommer27IWS',
   intervision:
     'mailto:info@inwuerde.de?subject=Aufnahme_in_die_Intervisionsgruppe',
   anfrage: 'mailto:info@inwuerde.de?subject=AnfrageIWS',
@@ -49,6 +51,7 @@ export const PAST_SEMINARS = [
   { date: '10.09. – 24.09.2024', place: 'Zoom-Online-Seminar', format: 'Zoom' },
   { date: '07.05. – 04.06.2025', place: 'Zoom-Online-Seminar (Value4Value)', format: 'Zoom' },
   { date: '08.10. – 29.10.2025', place: 'Zoom-Online-Seminar für die Uni Ulm', format: 'Zoom' },
+  { date: '29.10. – 19.11.2026', place: 'Zoom-Online-Seminar', format: 'Zoom' },
 ];
 
 export const PAST_TALKS = [

@@ -93,7 +93,7 @@ export function Hero() {
             >
               <a href="#termine">
                 <CalendarDays className="mr-2 h-5 w-5" />
-                Seminar Herbst 2026
+                Seminar Mai/Juni 2027
               </a>
             </Button>
             <Button
