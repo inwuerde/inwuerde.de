@@ -4,6 +4,10 @@ import { CONTACT, NAV_LINKS, MAILTO } from '@/data/content';
 
 export function Footer() {
   const go = (href: string) => {
+    if (!href.startsWith('#')) {
+      window.location.href = href;
+      return;
+    }
     document.querySelector(href)?.scrollIntoView({ behavior: 'smooth' });
   };
 
